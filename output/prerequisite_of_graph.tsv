@@ -1,0 +1,278 @@
+Pseudocode	Is-a-Prerequisite-of	Algorithm implementation
+Data structures	Is-a-Prerequisite-of	Algorithm design
+Doubly linked list	Is-a-Prerequisite-of	efficient searching
+Dequeue	Is-a-Prerequisite-of	efficient searching
+Data structures	Is-a-Prerequisite-of	algorithm efficiency
+ordered	Is-a-Prerequisite-of	ordered set
+unordered	Is-a-Prerequisite-of	unordered set
+ordered set	Is-a-Prerequisite-of	set member ordered
+unordered set	Is-a-Prerequisite-of	set member ordered
+ordered	Is-a-Prerequisite-of	ordered set
+list	Is-a-Prerequisite-of	sorted list
+list sorted	Is-a-Prerequisite-of	merging the sorted lists back together
+recursive algorithm	Is-a-Prerequisite-of	Appendix C
+recursive algorithm	Is-a-Prerequisite-of	recursive calls
+recursive algorithm	Is-a-Prerequisite-of	recursive calls
+understand algorithm	Is-a-Prerequisite-of	design algorithm
+custom type check	Is-a-Prerequisite-of	type T
+custom type check	Is-a-Prerequisite-of	value
+custom type check	Is-a-Prerequisite-of	type T
+custom type check	Is-a-Prerequisite-of	value
+custom type check	Is-a-Prerequisite-of	type T
+custom type check	Is-a-Prerequisite-of	type T
+custom type check	Is-a-Prerequisite-of	type T
+custom type check	Is-a-Prerequisite-of	type T
+sorted value	Is-a-Prerequisite-of	Inorder
+sorted value	Is-a-Prerequisite-of	Ordered
+sorted value	Is-a-Prerequisite-of	list
+ascending order	Is-a-Prerequisite-of	sorted value
+sorted value	Is-a-Prerequisite-of	Inorder
+sorted value	Is-a-Prerequisite-of	Ordered
+factorial	Is-a-Prerequisite-of	number
+n	Is-a-Prerequisite-of	factorial
+factorial	Is-a-Prerequisite-of	number
+n	Is-a-Prerequisite-of	factorial
+factorial	Is-a-Prerequisite-of	number
+n	Is-a-Prerequisite-of	factorial
+recursive algorithm	Is-a-Prerequisite-of	return statement
+recursive algorithm	Is-a-Prerequisite-of	return statement
+return statement	Is-a-Prerequisite-of	algorithm
+algorithm	Is-a-Prerequisite-of	return type
+Selecting correct sorting algorithm	Is-a-Prerequisite-of	Efficiency
+Sorting algorithms	Is-a-Prerequisite-of	Algorithms
+match	Is-a-Prerequisite-of	step
+Match	Is-a-Prerequisite-of	Second Step
+Binary Search Tree	Is-a-Prerequisite-of	Worst Case Scenario
+TDD	Is-a-Prerequisite-of	writing tests
+TDD	Is-a-Prerequisite-of	writing tests
+TDD	Is-a-Prerequisite-of	writing tests
+priority queue	Is-a-Prerequisite-of	heap
+TDD	Is-a-Prerequisite-of	Testing
+Priority Queue	Is-a-Prerequisite-of	Heap
+Introduction	Is-a-Prerequisite-of	Chapter
+Doubly linked list	Is-a-Prerequisite-of	Reverse list traversal
+Singly linked list	Is-a-Prerequisite-of	Reverse list traversal
+Doubly linked list	Is-a-Prerequisite-of	Reverse list traversal
+Singly linked list	Is-a-Prerequisite-of	Reverse list traversal
+Doubly linked list	Is-a-Prerequisite-of	Reverse list traversal
+Singly linked list	Is-a-Prerequisite-of	Reverse list traversal
+Doubly linked list	Is-a-Prerequisite-of	Reverse list traversal
+Singly linked list	Is-a-Prerequisite-of	Reverse list traversal
+Linked List	Is-a-Prerequisite-of	Pointer
+Linked List	Is-a-Prerequisite-of	Head
+Linked List	Is-a-Prerequisite-of	Tail
+list	Is-a-Prerequisite-of	Pre
+passed custom type check	Is-a-Prerequisite-of	value
+passed custom type check	Is-a-Prerequisite-of	value
+passed custom type check	Is-a-Prerequisite-of	value
+passed custom type check	Is-a-Prerequisite-of	value
+passed custom type check	Is-a-Prerequisite-of	type T
+Postorder	Is-a-Prerequisite-of	Binary Search Tree Traversal
+Postorder	Is-a-Prerequisite-of	Binary Search Tree traversal
+Postorder	Is-a-Prerequisite-of	Binary Search Tree Traversal
+Postorder traversal	Is-a-Prerequisite-of	Binary Search Tree
+Postorder	Is-a-Prerequisite-of	Binary Search Tree Traversal
+32 bit integer	Is-a-Prerequisite-of	radix sort
+n	Is-a-Prerequisite-of	32 bit integer
+tree balance	Is-a-Prerequisite-of	updating current height
+post list sorted	Is-a-Prerequisite-of	efficient search
+post list sorted	Is-a-Prerequisite-of	efficient search
+post list sorted	Is-a-Prerequisite-of	efficient search
+efficient search	Is-a-Prerequisite-of	user experience
+list	Is-a-Prerequisite-of	sorted list
+nodeToRemove	Is-a-Prerequisite-of	removal of a value
+leaf node	Is-a-Prerequisite-of	removal of a value
+nodeToRemove	Is-a-Prerequisite-of	removal of a leaf node
+nodeToRemove	Is-a-Prerequisite-of	removal of a leaf node
+nodeToRemove	Is-a-Prerequisite-of	removal of a leaf node
+nodeToRemove	Is-a-Prerequisite-of	removal of a node
+Binary Search Tree	Is-a-Prerequisite-of	Searching
+Binary Search Tree	Is-a-Prerequisite-of	Searching
+Binary Search Tree	Is-a-Prerequisite-of	Searching
+Binary Search Tree	Is-a-Prerequisite-of	Searching
+Binary Search Tree	Is-a-Prerequisite-of	Searching
+Binary Search Tree	Is-a-Prerequisite-of	AVL Tree
+Binary Search Tree	Is-a-Prerequisite-of	AVL Tree
+Binary Search Tree	Is-a-Prerequisite-of	Searching
+Binary Search Tree	Is-a-Prerequisite-of	Binary Search
+Postorder	Is-a-Prerequisite-of	Right
+Postorder	Is-a-Prerequisite-of	Right
+Postorder	Is-a-Prerequisite-of	Right
+Postorder	Is-a-Prerequisite-of	Right
+Rotation	Is-a-Prerequisite-of	Algorithms
+Rotation algorithm	Is-a-Prerequisite-of	Algorithms
+Rotation algorithm	Is-a-Prerequisite-of	Algorithms
+Rotation	Is-a-Prerequisite-of	Algorithms
+Rotation algorithm	Is-a-Prerequisite-of	Algorithms
+algorithm	Is-a-Prerequisite-of	data structure
+prototype algorithm	Is-a-Prerequisite-of	algorithm design
+recursive algorithm	Is-a-Prerequisite-of	algorithm trace
+algorithm	Is-a-Prerequisite-of	data structure
+pre-conditions	Is-a-Prerequisite-of	algorithm
+algorithm	Is-a-Prerequisite-of	data structure
+algorithm	Is-a-Prerequisite-of	data structure
+algorithm	Is-a-Prerequisite-of	data structure
+algorithm	Is-a-Prerequisite-of	parameters
+run time complexity analysis	Is-a-Prerequisite-of	oh notation extensively
+Big O notation	Is-a-Prerequisite-of	Runtime complexity analysis
+Oh notation extensively	Is-a-Prerequisite-of	Algorithm analysis
+selecting correct sorting algorithm	Is-a-Prerequisite-of	efficiency
+deletion algorithm	Is-a-Prerequisite-of	insertion algorithm
+deletion algorithm	Is-a-Prerequisite-of	insertion algorithm
+Sorting algorithm	Is-a-Prerequisite-of	Demonstrating sorting
+Sorting algorithm	Is-a-Prerequisite-of	demonstration
+Sorting algorithm	Is-a-Prerequisite-of	Efficiency
+Binary Search Tree	Is-a-Prerequisite-of	AVL tree
+Binary Search Tree	Is-a-Prerequisite-of	AVL tree
+Binary Search Tree	Is-a-Prerequisite-of	AVL tree
+Merge sort	Is-a-Prerequisite-of	Sorting algorithm
+Quick sort	Is-a-Prerequisite-of	Sorting algorithm
+Insertion sort	Is-a-Prerequisite-of	Sorting algorithm
+Radix sort	Is-a-Prerequisite-of	Sorting algorithm
+Algorithm design	Is-a-Prerequisite-of	Algorithm
+Merge sort	Is-a-Prerequisite-of	Sorting algorithm
+Quick sort	Is-a-Prerequisite-of	Sorting algorithm
+Insertion sort	Is-a-Prerequisite-of	Sorting algorithm
+Radix sort	Is-a-Prerequisite-of	Sorting algorithm
+Recursive algorithm	Is-a-Prerequisite-of	Algorithm
+Merge sort	Is-a-Prerequisite-of	sorting algorithm
+Quick sort	Is-a-Prerequisite-of	sorting algorithm
+Insertion sort	Is-a-Prerequisite-of	sorting algorithm
+Radix sort	Is-a-Prerequisite-of	sorting algorithm
+recursive algorithm	Is-a-Prerequisite-of	algorithm
+Merge sort	Is-a-Prerequisite-of	sorting algorithm
+Quick sort	Is-a-Prerequisite-of	sorting algorithm
+Insertion sort	Is-a-Prerequisite-of	sorting algorithm
+Radix sort	Is-a-Prerequisite-of	sorting algorithm
+recursive algorithm	Is-a-Prerequisite-of	algorithm
+Probability search	Is-a-Prerequisite-of	searching algorithm
+String	Is-a-Prerequisite-of	String operations
+Palindrome	Is-a-Prerequisite-of	String
+value	Is-a-Prerequisite-of	InsertNode
+value	Is-a-Prerequisite-of	Remove
+value	Is-a-Prerequisite-of	Contains
+value	Is-a-Prerequisite-of	FindNode
+value	Is-a-Prerequisite-of	FindParent
+algorithm	Is-a-Prerequisite-of	data structures
+AVL tree	Is-a-Prerequisite-of	logarithmic time complexity
+AVL tree	Is-a-Prerequisite-of	logarithmic time complexity
+AVL tree	Is-a-Prerequisite-of	logarithmic time complexity
+AVL tree	Is-a-Prerequisite-of	logarithmic time
+AVL tree	Is-a-Prerequisite-of	logarithmic time complexity
+type check	Is-a-Prerequisite-of	custom type checks
+type check	Is-a-Prerequisite-of	custom type checks
+type check	Is-a-Prerequisite-of	custom type checks
+type check	Is-a-Prerequisite-of	custom type checks
+algorithm implementation	Is-a-Prerequisite-of	vast majority case satisfied
+algorithm	Is-a-Prerequisite-of	implementing
+algorithm implementation	Is-a-Prerequisite-of	vast majority case satisfied
+algorithm implementation	Is-a-Prerequisite-of	vast majority case satisfied
+factorial algorithm	Is-a-Prerequisite-of	recursive implementations
+factorial algorithm	Is-a-Prerequisite-of	recursive implementations
+factorial algorithm	Is-a-Prerequisite-of	recursive implementations
+factorial algorithm	Is-a-Prerequisite-of	recursive implementations
+factorial algorithm	Is-a-Prerequisite-of	recursive implementations
+parent node	Is-a-Prerequisite-of	min heap
+parent node	Is-a-Prerequisite-of	max heap
+index	Is-a-Prerequisite-of	FindParent
+index	Is-a-Prerequisite-of	FindParent
+min heap	Is-a-Prerequisite-of	parent index
+max heap	Is-a-Prerequisite-of	parent index
+min heap	Is-a-Prerequisite-of	parent node value comparison
+AVL tree	Is-a-Prerequisite-of	Ordered set
+AVL tree	Is-a-Prerequisite-of	Ordered set
+AVL tree	Is-a-Prerequisite-of	ordered set
+AVL tree	Is-a-Prerequisite-of	Tree Rotation
+Big Oh notation	Is-a-Prerequisite-of	Algorithm runtime complexity analysis
+Algorithm	Is-a-Prerequisite-of	Software Development
+Binary Search Tree	Is-a-Prerequisite-of	Data Structure
+Binary Search Tree	Is-a-Prerequisite-of	AVL Tree
+Binary Search Tree	Is-a-Prerequisite-of	AVL Tree
+Binary Search Tree	Is-a-Prerequisite-of	AVL Tree
+Binary Search Tree	Is-a-Prerequisite-of	Data Structure
+value	Is-a-Prerequisite-of	true
+value	Is-a-Prerequisite-of	false
+yield	Is-a-Prerequisite-of	Post
+yield	Is-a-Prerequisite-of	Post
+yield	Is-a-Prerequisite-of	return
+Recursive algorithm	Is-a-Prerequisite-of	Algorithm
+Recursive algorithm	Is-a-Prerequisite-of	Algorithm
+Recursive algorithm	Is-a-Prerequisite-of	Algorithm
+Recursive algorithm	Is-a-Prerequisite-of	Algorithm
+Recursive algorithm	Is-a-Prerequisite-of	Algorithm
+Recursive algorithm	Is-a-Prerequisite-of	Appendix C
+Recursive algorithm	Is-a-Prerequisite-of	Appendix C
+Recursive algorithm	Is-a-Prerequisite-of	Algorithm
+Recursive algorithm	Is-a-Prerequisite-of	Appendix C
+Recursive algorithm	Is-a-Prerequisite-of	Algorithm
+unit test	Is-a-Prerequisite-of	software development
+unit test	Is-a-Prerequisite-of	software development
+TDD	Is-a-Prerequisite-of	unit test
+unit test	Is-a-Prerequisite-of	software development
+TDD	Is-a-Prerequisite-of	code coverage
+unit test	Is-a-Prerequisite-of	software production code
+unit test	Is-a-Prerequisite-of	software development
+unit test	Is-a-Prerequisite-of	software development
+Big Oh notation	Is-a-Prerequisite-of	Algorithm analysis
+Big Oh notation	Is-a-Prerequisite-of	Algorithm analysis
+algorithm	Is-a-Prerequisite-of	big oh notation
+Big Oh notation	Is-a-Prerequisite-of	Algorithm analysis
+algorithm	Is-a-Prerequisite-of	big oh notation
+Big Oh notation	Is-a-Prerequisite-of	Run time complexity analysis
+Big Oh notation	Is-a-Prerequisite-of	Algorithm analysis
+Big Oh notation	Is-a-Prerequisite-of	Run time complexity analysis
+Big Oh notation	Is-a-Prerequisite-of	Algorithm analysis
+BST	Is-a-Prerequisite-of	worst case scenario
+priority queue	Is-a-Prerequisite-of	custom comparer
+priority queue	Is-a-Prerequisite-of	custom comparer
+priority queue	Is-a-Prerequisite-of	heap data structure
+priority queue	Is-a-Prerequisite-of	heap data structure
+priority queue	Is-a-Prerequisite-of	heap data structure
+Add method	Is-a-Prerequisite-of	data structure
+Add method	Is-a-Prerequisite-of	data structure
+data structure	Is-a-Prerequisite-of	Add method
+data structure	Is-a-Prerequisite-of	Add method
+AVL tree	Is-a-Prerequisite-of	preserving tree balance
+zero pre list mean	Is-a-Prerequisite-of	list processing
+zero pre list mean	Is-a-Prerequisite-of	list processing
+zero pre list mean	Is-a-Prerequisite-of	list processing
+priority queue	Is-a-Prerequisite-of	heap data structure
+algorithm	Is-a-Prerequisite-of	binary tree
+Remove algorithm	Is-a-Prerequisite-of	Helper algorithms
+Data Structures	Is-a-Prerequisite-of	Algorithms
+LeftAndRightRotation	Is-a-Prerequisite-of	restoring balance in BST
+RightAndLeftRotation	Is-a-Prerequisite-of	restoring balance in BST
+LeftAndRightRotation	Is-a-Prerequisite-of	restoring balance
+RightAndLeftRotation	Is-a-Prerequisite-of	restoring balance
+factorial	Is-a-Prerequisite-of	mathematical operation implementation
+AVL tree	Is-a-Prerequisite-of	ordered set
+list	Is-a-Prerequisite-of	pre-order traversal
+list	Is-a-Prerequisite-of	in-order traversal
+list	Is-a-Prerequisite-of	post-order traversal
+Enqueue	Is-a-Prerequisite-of	Queue
+algorithm described	Is-a-Prerequisite-of	algorithm design
+algorithm	Is-a-Prerequisite-of	algorithm design
+Preorder	Is-a-Prerequisite-of	Left subtree traversal
+Inorder	Is-a-Prerequisite-of	Left subtree traversal
+Postorder	Is-a-Prerequisite-of	Left subtree traversal
+represent type	Is-a-Prerequisite-of	data structure
+algorithm	Is-a-Prerequisite-of	sorting
+algorithm	Is-a-Prerequisite-of	string operations
+FindNode algorithm	Is-a-Prerequisite-of	preorder algorithm
+String algorithm	Is-a-Prerequisite-of	structured approach
+root	Is-a-Prerequisite-of	CheckBalance
+nodeToRemove.Left	Is-a-Prerequisite-of	nodeToRemove.Right
+nodeToRemove.Right	Is-a-Prerequisite-of	nodeToRemove.Left
+Deque	Is-a-Prerequisite-of	Algorithm
+Big Oh notation	Is-a-Prerequisite-of	Algorithm analysis
+Recursive algorithm	Is-a-Prerequisite-of	Stack size
+ordered set	Is-a-Prerequisite-of	AVL tree
+implementation	Is-a-Prerequisite-of	algorithm
+recursive implementation	Is-a-Prerequisite-of	factorial
+deque	Is-a-Prerequisite-of	ordered
+order	Is-a-Prerequisite-of	deque
+algorithm	Is-a-Prerequisite-of	return type
+problem	Is-a-Prerequisite-of	algorithm
+Big Oh notation	Is-a-Prerequisite-of	Algorithm analysis
+number	Is-a-Prerequisite-of	digit
+Remove algorithm	Is-a-Prerequisite-of	value

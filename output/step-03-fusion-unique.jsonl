@@ -1,0 +1,1385 @@
+{"s": "doubly linked list", "p": "Hyponym-Of", "o": "linked list"}
+{"s": "algorithm", "p": "Used-for", "o": "doubly linked list"}
+{"s": "doubly linked list", "p": "Is-a-Prerequisite-of", "o": "efficient searching"}
+{"s": "doubly linked list", "p": "Is-a-Prerequisite-of", "o": "reverse list traversal"}
+{"s": "doubly linked list", "p": "Used-for", "o": "reverse list traversal"}
+{"s": "addition", "p": "Is-a-Prerequisite-of", "o": "arithmetic"}
+{"s": "addition", "p": "Used-for", "o": "calculating sums"}
+{"s": "addition", "p": "Used-for", "o": "mathematical operations"}
+{"s": "remove", "p": "Used-for", "o": "data cleaning"}
+{"s": "remove", "p": "Used-for", "o": "outlier detection"}
+{"s": "remove", "p": "Used-for", "o": "noise reduction"}
+{"s": "reverse traversal", "p": "Is-a-Prerequisite-of", "o": "graph traversal"}
+{"s": "reverse traversal", "p": "Used-for", "o": "path finding"}
+{"s": "reverse traversal", "p": "Used-for", "o": "shortest path algorithms"}
+{"s": "insert", "p": "Used-for", "o": "database"}
+{"s": "insert", "p": "Used-for", "o": "text"}
+{"s": "insert", "p": "Used-for", "o": "sequence"}
+{"s": "insert", "p": "Used-for", "o": "list"}
+{"s": "insert", "p": "Is-a-Prerequisite-of", "o": "data manipulation"}
+{"s": "insertnode", "p": "Used-for", "o": "graph construction"}
+{"s": "insertnode", "p": "Is-a-Prerequisite-of", "o": "graph manipulation"}
+{"s": "insertnode", "p": "Part-of", "o": "graph algorithms"}
+{"s": "insertnode", "p": "Compare", "o": "other node insertion methods"}
+{"s": "findparent", "p": "Used-for", "o": "finding the parent node in a tree structure"}
+{"s": "findparent", "p": "Is-a-Prerequisite-of", "o": "traversing a tree"}
+{"s": "findnode", "p": "Is-a-Prerequisite-of", "o": "graph traversal"}
+{"s": "findnode", "p": "Used-for", "o": "graph searching"}
+{"s": "graph traversal", "p": "Used-for", "o": "graph searching"}
+{"s": "graph searching", "p": "Is-a-Prerequisite-of", "o": "finding nodes"}
+{"s": "finding nodes", "p": "Used-for", "o": "graph algorithms"}
+{"s": "graph algorithms", "p": "Used-for", "o": "data analysis"}
+{"s": "findmin", "p": "Used-for", "o": "optimization"}
+{"s": "findmin", "p": "Used-for", "o": "algorithm"}
+{"s": "findmin", "p": "Is-a-Prerequisite-of", "o": "minimize"}
+{"s": "findmin", "p": "Compare", "o": "other algorithms"}
+{"s": "findmax", "p": "Is-a-Prerequisite-of", "o": "algorithm"}
+{"s": "findmax", "p": "Used-for", "o": "optimization"}
+{"s": "findmax", "p": "Used-for", "o": "data analysis"}
+{"s": "algorithm", "p": "Part-of", "o": "computer science"}
+{"s": "optimization", "p": "Part-of", "o": "mathematics"}
+{"s": "data analysis", "p": "Part-of", "o": "statistics"}
+{"s": "computer science", "p": "Compare", "o": "mathematics"}
+{"s": "computer science", "p": "Compare", "o": "statistics"}
+{"s": "preorder traversal", "p": "Is-a-Prerequisite-of", "o": "left subtree traversal"}
+{"s": "preorder traversal", "p": "Is-a-Prerequisite-of", "o": "right subtree traversal"}
+{"s": "preorder traversal", "p": "Part-of", "o": "tree traversal"}
+{"s": "inorder traversal", "p": "Is-a-Prerequisite-of", "o": "left subtree traversal"}
+{"s": "inorder traversal", "p": "Is-a-Prerequisite-of", "o": "right subtree traversal"}
+{"s": "inorder traversal", "p": "Part-of", "o": "binary tree traversal"}
+{"s": "Breadth-first search", "p": "Is-a-Prerequisite-of", "o": "Graph traversal"}
+{"s": "Breadth-first search", "p": "Used-for", "o": "Finding shortest path"}
+{"s": "Breadth-first search", "p": "Used-for", "o": "Level order traversal"}
+{"s": "Breadth-first search", "p": "Used-for", "o": "Searching"}
+{"s": "Graph traversal", "p": "Part-of", "o": "Graph algorithms"}
+{"s": "Graph algorithms", "p": "Is-a-Prerequisite-of", "o": "Computer science"}
+{"s": "Level order traversal", "p": "Used-for", "o": "Tree traversal"}
+{"s": "Shortest path", "p": "Hyponym-Of", "o": "Path"}
+{"s": "Left Rotation", "p": "Is-a-Prerequisite-of", "o": "Image Processing"}
+{"s": "Left Rotation", "p": "Used-for", "o": "Data Augmentation"}
+{"s": "Left Rotation", "p": "Used-for", "o": "Computer Vision"}
+{"s": "Left Rotation", "p": "Part-of", "o": "Image Transformation"}
+{"s": "check balance", "p": "Used-for", "o": "banking"}
+{"s": "check balance", "p": "Used-for", "o": "account management"}
+{"s": "Mergesort", "p": "Is-a-Prerequisite-of", "o": "Sorting"}
+{"s": "Mergesort", "p": "Used-for", "o": "Sorting Algorithms"}
+{"s": "Mergesort", "p": "Compare", "o": "Elements"}
+{"s": "Mergesort", "p": "Part-of", "o": "Divide and Conquer"}
+{"s": "Divide and Conquer", "p": "Is-a-Prerequisite-of", "o": "Mergesort"}
+{"s": "Insertion Sort", "p": "Is-a-Prerequisite-of", "o": "Sorting Algorithm"}
+{"s": "Insertion Sort", "p": "Used-for", "o": "Sorting Data"}
+{"s": "Insertion Sort", "p": "Compare", "o": "Elements"}
+{"s": "Insertion Sort", "p": "Part-of", "o": "Comparison Sort"}
+{"s": "Shellsort", "p": "Is-a-Prerequisite-of", "o": "Sorting algorithm"}
+{"s": "Shellsort", "p": "Used-for", "o": "Sorting data"}
+{"s": "Shellsort", "p": "Compare", "o": "elements"}
+{"s": "Shellsort", "p": "Hyponym-Of", "o": "Comparison sort"}
+{"s": "radix", "p": "Part-of", "o": "number system"}
+{"s": "radix", "p": "Used-for", "o": "positional notation"}
+{"s": "radix", "p": "Is-a-Prerequisite-of", "o": "base conversion"}
+{"s": "greatest common denominator", "p": "Is-a-Prerequisite-of", "o": "arithmetic"}
+{"s": "greatest common divisor", "p": "Compare", "o": "least common multiple"}
+{"s": "greatest common divisor", "p": "Used-for", "o": "simplifying fractions"}
+{"s": "greatest common divisor", "p": "Used-for", "o": "solving Diophantine equations"}
+{"s": "Sequential search", "p": "Is-a-Prerequisite-of", "o": "Linear search"}
+{"s": "Sequential search", "p": "Used-for", "o": "Finding elements in unsorted arrays"}
+{"s": "Sequential search", "p": "Used-for", "o": "Searching for specific data"}
+{"s": "Sequential search", "p": "Compare", "o": "Binary search"}
+{"s": "Linear search", "p": "Is-a-Prerequisite-of", "o": "Sequential search"}
+{"s": "reverse words", "p": "Used-for", "o": "text processing"}
+{"s": "reverse words", "p": "Is-a-Prerequisite-of", "o": "natural language processing"}
+{"s": "repeated word count", "p": "Is-a-Prerequisite-of", "o": "text analysis"}
+{"s": "repeated word count", "p": "Used-for", "o": "plagiarism detection"}
+{"s": "repeated word count", "p": "Used-for", "o": "text summarization"}
+{"s": "text analysis", "p": "Part-of", "o": "natural language processing"}
+{"s": "plagiarism detection", "p": "Part-of", "o": "text analysis"}
+{"s": "text summarization", "p": "Part-of", "o": "text analysis"}
+{"s": "\"any\"", "p": "Is-a-Prerequisite-of", "o": "\"model\""}
+{"s": "pseudocode", "p": "Part-of", "o": "algorithm description"}
+{"s": "pseudocode", "p": "Used-for", "o": "algorithm design"}
+{"s": "pseudocode", "p": "Part-of", "o": "algorithm"}
+{"s": "pseudocode", "p": "Is-a-Prerequisite-of", "o": "algorithm implementation"}
+{"s": "algorithm", "p": "Part-of", "o": "data structures and algorithms"}
+{"s": "algorithm", "p": "Used-for", "o": "solve problem"}
+{"s": "algorithm", "p": "Compare", "o": "algorithm"}
+{"s": "Insertion sort", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Merge sort", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "algorithm", "p": "Evaluate-for", "o": "runtime efficiency"}
+{"s": "algorithm", "p": "Evaluate-for", "o": "space time complexity"}
+{"s": "algorithm", "p": "Used-for", "o": "sorting"}
+{"s": "Cubic algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Exponential algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Quadratic algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "recursion", "p": "Used-for", "o": "algorithm"}
+{"s": "algorithm", "p": "Evaluate-for", "o": "run time efficiency"}
+{"s": "return statement", "p": "Part-of", "o": "algorithm"}
+{"s": "algorithm", "p": "Part-of", "o": "program"}
+{"s": "return statement", "p": "Is-a-Prerequisite-of", "o": "algorithm"}
+{"s": "recursive algorithm", "p": "Part-of", "o": "algorithm"}
+{"s": "algorithm", "p": "Used-for", "o": "data structure"}
+{"s": "algorithm", "p": "Evaluate-for", "o": "correctness"}
+{"s": "data structure", "p": "Part-of", "o": "algorithm"}
+{"s": "hash table", "p": "Part-of", "o": "algorithm"}
+{"s": "set", "p": "Used-for", "o": "algorithm"}
+{"s": "string", "p": "Part-of", "o": "algorithm"}
+{"s": "hash table", "p": "Used-for", "o": "algorithm"}
+{"s": "algorithm", "p": "Used-for", "o": "data structures"}
+{"s": "data structures", "p": "Part-of", "o": "algorithm"}
+{"s": "algorithm", "p": "Part-of", "o": "software development"}
+{"s": "index", "p": "Part-of", "o": "algorithm"}
+{"s": "integer", "p": "Used-for", "o": "algorithm"}
+{"s": "algorithm", "p": "Used-for", "o": "32 bit integer"}
+{"s": "algorithm", "p": "Used-for", "o": "problem solving"}
+{"s": "algorithm", "p": "Evaluate-for", "o": "efficiency"}
+{"s": "algorithm design", "p": "Part-of", "o": "algorithm"}
+{"s": "algorithm", "p": "Part-of", "o": "algorithm"}
+{"s": "Pre-condition", "p": "Part-of", "o": "algorithm"}
+{"s": "Post-condition", "p": "Part-of", "o": "algorithm"}
+{"s": "algorithm", "p": "Part-of", "o": "chapter"}
+{"s": "algorithm", "p": "Part-of", "o": "data structure"}
+{"s": "algorithm", "p": "Evaluate-for", "o": "test cases"}
+{"s": "recursive algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "sorting algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "cubic algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "exponential algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "algorithm", "p": "Conjunction", "o": "data structure"}
+{"s": "algorithm", "p": "Hyponym-Of", "o": "Add"}
+{"s": "Big O notation", "p": "Used-for", "o": "algorithm"}
+{"s": "algorithm", "p": "Part-of", "o": "section"}
+{"s": "test cases", "p": "Part-of", "o": "algorithm"}
+{"s": "algorithm", "p": "Evaluate-for", "o": "minimised test driven development"}
+{"s": "algorithm", "p": "Conjunction", "o": "data structures"}
+{"s": "Add algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Contains algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Remove algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Traverse algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "ReverseTraversal algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Insert algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "InsertNode algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "FindParent algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "FindNode algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "FindMin algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "FindMax algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Preorder algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Postorder algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Inorder algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "BreadthFirst algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "MinHeapify algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "MaxHeapify algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Union algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Intersection algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "logarithmic algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "prototype algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "garbage collection algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "resizing algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "traversal algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "insertion algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "deletion algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "search algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "algorithm", "p": "Used-for", "o": "string operations"}
+{"s": "algorithm", "p": "Used-for", "o": "tree traversal"}
+{"s": "algorithm", "p": "Part-of", "o": "book"}
+{"s": "algorithm", "p": "Evaluate-for", "o": "performance"}
+{"s": "algorithm implementation", "p": "Part-of", "o": "algorithm"}
+{"s": "algorithm analysis", "p": "Part-of", "o": "algorithm"}
+{"s": "sorting algorithms", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "garbage collection algorithms", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "heap insertion algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "algorithm", "p": "Part-of", "o": "pre-conditions"}
+{"s": "algorithm", "p": "Part-of", "o": "post-conditions"}
+{"s": "algorithm", "p": "Part-of", "o": "algorithm signature"}
+{"s": "algorithm", "p": "Part-of", "o": "parameters"}
+{"s": "algorithm", "p": "Part-of", "o": "test cases"}
+{"s": "algorithm", "p": "Part-of", "o": "loops"}
+{"s": "algorithm", "p": "Part-of", "o": "resizing algorithms"}
+{"s": "algorithm", "p": "Part-of", "o": "Sorting algorithm"}
+{"s": "algorithm", "p": "Used-for", "o": "linked list"}
+{"s": "algorithm", "p": "Used-for", "o": "heap"}
+{"s": "algorithm", "p": "Used-for", "o": "set"}
+{"s": "algorithm", "p": "Used-for", "o": "queue"}
+{"s": "algorithm", "p": "Used-for", "o": "priority queue"}
+{"s": "algorithm", "p": "Used-for", "o": "deque"}
+{"s": "algorithm", "p": "Used-for", "o": "AVL tree"}
+{"s": "algorithm", "p": "Used-for", "o": "BST"}
+{"s": "algorithm", "p": "Used-for", "o": "hash table"}
+{"s": "algorithm", "p": "Used-for", "o": "string"}
+{"s": "resizing algorithm", "p": "Part-of", "o": "algorithm"}
+{"s": "garbage collection algorithm", "p": "Part-of", "o": "algorithm"}
+{"s": "balancing algorithm", "p": "Part-of", "o": "algorithm"}
+{"s": "algorithm", "p": "Used-for", "o": "list"}
+{"s": "algorithm", "p": "Used-for", "o": "array"}
+{"s": "algorithm", "p": "Part-of", "o": "Data Structures and Algorithms project"}
+{"s": "algorithm", "p": "Used-for", "o": "node discovery"}
+{"s": "algorithm", "p": "Used-for", "o": "garbage collection"}
+{"s": "algorithm", "p": "Used-for", "o": "heap insertion"}
+{"s": "algorithm", "p": "Used-for", "o": "heap deletion"}
+{"s": "algorithm", "p": "Used-for", "o": "heap search"}
+{"s": "algorithm", "p": "Used-for", "o": "palindrome detection"}
+{"s": "algorithm", "p": "Used-for", "o": "word counting"}
+{"s": "algorithm", "p": "Used-for", "o": "binary conversion"}
+{"s": "algorithm", "p": "Used-for", "o": "factorial calculation"}
+{"s": "algorithm", "p": "Used-for", "o": "prime number determination"}
+{"s": "algorithm", "p": "Used-for", "o": "list search"}
+{"s": "algorithm", "p": "Evaluate-for", "o": "minimised test cases"}
+{"s": "algorithm", "p": "Used-for", "o": "String operations"}
+{"s": "LeftAndRightRotation", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "RightAndLeftRotation", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Mergesort algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "isPrime algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "GreatestCommonDenominator algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "MaxValue algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "SequentialSearch algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "ProbabilitySearch algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "ReverseWords algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "WordCount algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "RepeatedWordCount algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "IsPalindrome algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Fibonacci algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "queue", "p": "Used-for", "o": "algorithm"}
+{"s": "list", "p": "Used-for", "o": "algorithm"}
+{"s": "increment", "p": "Part-of", "o": "algorithm"}
+{"s": "big oh notation", "p": "Compare", "o": "algorithm"}
+{"s": "straightforward", "p": "Evaluate-for", "o": "algorithm"}
+{"s": "algorithm", "p": "Hyponym-Of", "o": "searching algorithm"}
+{"s": "post-condition", "p": "Part-of", "o": "algorithm"}
+{"s": "problem", "p": "Used-for", "o": "algorithm"}
+{"s": "algorithm", "p": "Compare", "o": "recursive algorithm"}
+{"s": "algorithm", "p": "Used-for", "o": "integer"}
+{"s": "implementation", "p": "Used-for", "o": "algorithm"}
+{"s": "algorithm", "p": "Used-for", "o": "value"}
+{"s": "Add", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "problem", "p": "Part-of", "o": "algorithm"}
+{"s": "problem", "p": "Evaluate-for", "o": "algorithm"}
+{"s": "data structures", "p": "Is-a-Prerequisite-of", "o": "algorithm efficiency"}
+{"s": "data structures", "p": "Is-a-Prerequisite-of", "o": "algorithm design"}
+{"s": "data structures", "p": "Is-a-Prerequisite-of", "o": "algorithms"}
+{"s": "data structures", "p": "Used-for", "o": "storing data"}
+{"s": "algorithm", "p": "Is-a-Prerequisite-of", "o": "data structures"}
+{"s": "hashing algorithm", "p": "Part-of", "o": "hash table"}
+{"s": "set", "p": "Used-for", "o": "hash table"}
+{"s": "hash table", "p": "Used-for", "o": "unordered set"}
+{"s": "hash table", "p": "Used-for", "o": "implementation"}
+{"s": "queue", "p": "Hyponym-Of", "o": "data structure"}
+{"s": "queue", "p": "Part-of", "o": "EnqueueFront"}
+{"s": "Priority Queue", "p": "Part-of", "o": "queue"}
+{"s": "queue", "p": "Conjunction", "o": "priority queue"}
+{"s": "priority queue", "p": "Compare", "o": "queue"}
+{"s": "queue", "p": "Part-of", "o": "priority queue"}
+{"s": "deque", "p": "Compare", "o": "queue"}
+{"s": "queue", "p": "Part-of", "o": "deque"}
+{"s": "queue", "p": "Compare", "o": "implicitly described queue"}
+{"s": "queue", "p": "Compare", "o": "set"}
+{"s": "deque", "p": "Hyponym-Of", "o": "queue"}
+{"s": "recursive algorithm", "p": "Conjunction", "o": "iterative algorithms"}
+{"s": "Appendix D", "p": "Part-of", "o": "Document"}
+{"s": "Appendix D", "p": "Used-for", "o": "Supplementary Information"}
+{"s": "Appendix E", "p": "Part-of", "o": "Document"}
+{"s": "Document", "p": "Used-for", "o": "Information storage"}
+{"s": "Document", "p": "Used-for", "o": "Communication"}
+{"s": "dequeue", "p": "Is-a-Prerequisite-of", "o": "efficient searching"}
+{"s": "Breadth-First Search", "p": "Is-a-Prerequisite-of", "o": "Graph Traversal"}
+{"s": "Depth-First Search", "p": "Is-a-Prerequisite-of", "o": "Graph Traversal"}
+{"s": "A*", "p": "Is-a-Prerequisite-of", "o": "Graph Search"}
+{"s": "Graph Search", "p": "Is-a-Prerequisite-of", "o": "Searching Algorithms"}
+{"s": "Graph Traversal", "p": "Is-a-Prerequisite-of", "o": "Searching Algorithms"}
+{"s": "Binary Search", "p": "Is-a-Prerequisite-of", "o": "Searching Algorithms"}
+{"s": "Linear Search", "p": "Is-a-Prerequisite-of", "o": "Searching Algorithms"}
+{"s": "Jump Search", "p": "Is-a-Prerequisite-of", "o": "Searching Algorithms"}
+{"s": "Interpolation Search", "p": "Is-a-Prerequisite-of", "o": "Searching Algorithms"}
+{"s": "Exponential Search", "p": "Is-a-Prerequisite-of", "o": "Searching Algorithms"}
+{"s": "Sublinear Search", "p": "Is-a-Prerequisite-of", "o": "Searching Algorithms"}
+{"s": "Trie", "p": "Used-for", "o": "Searching Algorithms"}
+{"s": "Hash Table", "p": "Used-for", "o": "Searching Algorithms"}
+{"s": "A*", "p": "Used-for", "o": "Pathfinding"}
+{"s": "Breadth-First Search", "p": "Used-for", "o": "Pathfinding"}
+{"s": "Depth-First Search", "p": "Used-for", "o": "Pathfinding"}
+{"s": "Binary Search", "p": "Used-for", "o": "Searching Sorted Data"}
+{"s": "Linear Search", "p": "Used-for", "o": "Searching Unsorted Data"}
+{"s": "Jump Search", "p": "Used-for", "o": "Searching Sorted Data"}
+{"s": "Interpolation Search", "p": "Used-for", "o": "Searching Sorted Data"}
+{"s": "Exponential Search", "p": "Used-for", "o": "Searching Sorted Data"}
+{"s": "testing", "p": "Used-for", "o": "creating a safety blanket"}
+{"s": "algorithm", "p": "Is-a-Prerequisite-of", "o": "binary tree"}
+{"s": "binary search tree", "p": "Part-of", "o": "data structure"}
+{"s": "AVL tree", "p": "Hyponym-Of", "o": "binary search tree"}
+{"s": "binary search tree", "p": "Compare", "o": "AVL tree"}
+{"s": "binary search tree", "p": "Part-of", "o": "subtree"}
+{"s": "binary search tree", "p": "Used-for", "o": "ordered sequence"}
+{"s": "binary search tree", "p": "Hyponym-Of", "o": "tree"}
+{"s": "node", "p": "Part-of", "o": "binary search tree"}
+{"s": "nodeToRemove", "p": "Part-of", "o": "binary search tree"}
+{"s": "parent", "p": "Part-of", "o": "binary search tree"}
+{"s": "ordered set", "p": "Part-of", "o": "binary search tree"}
+{"s": "binary search tree", "p": "Is-a-Prerequisite-of", "o": "searching"}
+{"s": "binary search tree", "p": "Is-a-Prerequisite-of", "o": "binary search"}
+{"s": "binary search tree", "p": "Is-a-Prerequisite-of", "o": "worst case scenario"}
+{"s": "binary search tree", "p": "Is-a-Prerequisite-of", "o": "data structure"}
+{"s": "binary search tree", "p": "Is-a-Prerequisite-of", "o": "AVL tree"}
+{"s": "AVL tree", "p": "Part-of", "o": "binary search tree"}
+{"s": "min heap", "p": "Is-a-Prerequisite-of", "o": "heapsort"}
+{"s": "min heap", "p": "Used-for", "o": "priority queue"}
+{"s": "min heap", "p": "Part-of", "o": "heap"}
+{"s": "min heap", "p": "Compare", "o": "elements"}
+{"s": "heap", "p": "Part-of", "o": "data structure"}
+{"s": "return statement", "p": "Used-for", "o": "heap"}
+{"s": "heap", "p": "Part-of", "o": "priority queue"}
+{"s": "array", "p": "Part-of", "o": "heap"}
+{"s": "heap", "p": "Used-for", "o": "priority queue"}
+{"s": "priority queue", "p": "Is-a-Prerequisite-of", "o": "heap"}
+{"s": "min-heap", "p": "Hyponym-Of", "o": "heap"}
+{"s": "max-heap", "p": "Hyponym-Of", "o": "heap"}
+{"s": "heap", "p": "Part-of", "o": "array data structure"}
+{"s": "heap value", "p": "Part-of", "o": "heap"}
+{"s": "value", "p": "Used-for", "o": "heap"}
+{"s": "value", "p": "Evaluate-for", "o": "heap"}
+{"s": "parent index", "p": "Part-of", "o": "heap"}
+{"s": "heap", "p": "Compare", "o": "tree"}
+{"s": "array", "p": "Used-for", "o": "heap"}
+{"s": "heap array used", "p": "Part-of", "o": "heap"}
+{"s": "heap", "p": "Used-for", "o": "storing heap items"}
+{"s": "heap", "p": "Part-of", "o": "heap array"}
+{"s": "item", "p": "Part-of", "o": "heap"}
+{"s": "heap", "p": "Used-for", "o": "returning item at index 0"}
+{"s": "heap", "p": "Evaluate-for", "o": "searching"}
+{"s": "heap", "p": "Hyponym-Of", "o": "tree data structure"}
+{"s": "heap", "p": "Hyponym-Of", "o": "data structure"}
+{"s": "Remove algorithm", "p": "Used-for", "o": "heap"}
+{"s": "linked list", "p": "Part-of", "o": "node"}
+{"s": "list", "p": "Part-of", "o": "node"}
+{"s": "leaf node", "p": "Hyponym-Of", "o": "node"}
+{"s": "value", "p": "Part-of", "o": "node"}
+{"s": "node", "p": "Part-of", "o": "tree"}
+{"s": "child", "p": "Part-of", "o": "node"}
+{"s": "Post", "p": "Part-of", "o": "node"}
+{"s": "head node", "p": "Part-of", "o": "graph neural network"}
+{"s": "head node", "p": "Used-for", "o": "graph traversal"}
+{"s": "head node", "p": "Used-for", "o": "graph representation learning"}
+{"s": "ordered set", "p": "Part-of", "o": "set"}
+{"s": "ordered set", "p": "Compare", "o": "unordered set"}
+{"s": "ordered", "p": "Is-a-Prerequisite-of", "o": "ordered set"}
+{"s": "ordered set", "p": "Is-a-Prerequisite-of", "o": "set member ordered"}
+{"s": "AVL tree", "p": "Part-of", "o": "ordered set"}
+{"s": "AVL tree", "p": "Is-a-Prerequisite-of", "o": "ordered set"}
+{"s": "AVL tree", "p": "Used-for", "o": "ordered set"}
+{"s": "ordered set", "p": "Is-a-Prerequisite-of", "o": "AVL tree"}
+{"s": "inorder traversal", "p": "Used-for", "o": "ordered set"}
+{"s": "unordered set", "p": "Compare", "o": "ordered set"}
+{"s": "unordered set", "p": "Part-of", "o": "set"}
+{"s": "unordered", "p": "Is-a-Prerequisite-of", "o": "unordered set"}
+{"s": "unordered set", "p": "Is-a-Prerequisite-of", "o": "set member ordered"}
+{"s": "set member", "p": "Part-of", "o": "set"}
+{"s": "ordered", "p": "Conjunction", "o": "unordered"}
+{"s": "ordered", "p": "Compare", "o": "unordered"}
+{"s": "deque", "p": "Is-a-Prerequisite-of", "o": "ordered"}
+{"s": "set", "p": "Part-of", "o": "data structure"}
+{"s": "Union algorithm", "p": "Part-of", "o": "set"}
+{"s": "Intersection algorithm", "p": "Part-of", "o": "set"}
+{"s": "list", "p": "Compare", "o": "set"}
+{"s": "hash table", "p": "Part-of", "o": "set"}
+{"s": "list", "p": "Is-a-Prerequisite-of", "o": "sorted list"}
+{"s": "list", "p": "Part-of", "o": "item"}
+{"s": "list", "p": "Part-of", "o": "linked list"}
+{"s": "list", "p": "Used-for", "o": "sorting"}
+{"s": "sorted value", "p": "Is-a-Prerequisite-of", "o": "list"}
+{"s": "list", "p": "Used-for", "o": "sorting algorithm"}
+{"s": "sorted value", "p": "Part-of", "o": "list"}
+{"s": "list", "p": "Used-for", "o": "ascending order"}
+{"s": "list", "p": "Part-of", "o": "return"}
+{"s": "list", "p": "Hyponym-Of", "o": "data structure"}
+{"s": "list", "p": "Used-for", "o": "data storage"}
+{"s": "list", "p": "Compare", "o": "array"}
+{"s": "increment", "p": "Part-of", "o": "list"}
+{"s": "increment", "p": "Used-for", "o": "list"}
+{"s": "list", "p": "Part-of", "o": "increment"}
+{"s": "list", "p": "Part-of", "o": "data structure"}
+{"s": "list", "p": "Used-for", "o": "return statement"}
+{"s": "return statement", "p": "Compare", "o": "list"}
+{"s": "list", "p": "Is-a-Prerequisite-of", "o": "Pre"}
+{"s": "list", "p": "Part-of", "o": "singly linked list"}
+{"s": "list index", "p": "Part-of", "o": "list"}
+{"s": "list", "p": "Used-for", "o": "item search"}
+{"s": "list", "p": "Part-of", "o": "index"}
+{"s": "item", "p": "Part-of", "o": "list"}
+{"s": "list", "p": "Used-for", "o": "search"}
+{"s": "list", "p": "Compare", "o": "32 bit integer"}
+{"s": "list", "p": "Part-of", "o": "GreatestCommonDenominator"}
+{"s": "list", "p": "Compare", "o": "stack"}
+{"s": "index", "p": "Part-of", "o": "list"}
+{"s": "memory", "p": "Used-for", "o": "list"}
+{"s": "list", "p": "Conjunction", "o": "increment"}
+{"s": "list", "p": "Part-of", "o": "list increment list"}
+{"s": "list increment", "p": "Used-for", "o": "list"}
+{"s": "list", "p": "Compare", "o": "list"}
+{"s": "list", "p": "Part-of", "o": "pivot list"}
+{"s": "pivot", "p": "Conjunction", "o": "list"}
+{"s": "list", "p": "Conjunction", "o": "pivot"}
+{"s": "list", "p": "Part-of", "o": "pivot"}
+{"s": "list", "p": "Part-of", "o": "zero pre list mean"}
+{"s": "zero pre list mean", "p": "Part-of", "o": "list"}
+{"s": "list", "p": "Is-a-Prerequisite-of", "o": "pre-order traversal"}
+{"s": "list", "p": "Is-a-Prerequisite-of", "o": "in-order traversal"}
+{"s": "list", "p": "Is-a-Prerequisite-of", "o": "post-order traversal"}
+{"s": "list", "p": "Part-of", "o": "Abstract Data Type"}
+{"s": "list", "p": "Used-for", "o": "algorithm implementation"}
+{"s": "tail", "p": "Part-of", "o": "list"}
+{"s": "quick sort", "p": "Compare", "o": "insertion sort"}
+{"s": "quick sort", "p": "Compare", "o": "other sorting algorithms"}
+{"s": "quick sort", "p": "Evaluate-for", "o": "efficiency"}
+{"s": "quick sort", "p": "Is-a-Prerequisite-of", "o": "sorting algorithm"}
+{"s": "linked list", "p": "Part-of", "o": "data structure"}
+{"s": "linked list", "p": "Hyponym-Of", "o": "list"}
+{"s": "singly linked list", "p": "Hyponym-Of", "o": "linked list"}
+{"s": "linked list", "p": "Is-a-Prerequisite-of", "o": "head"}
+{"s": "linked list", "p": "Is-a-Prerequisite-of", "o": "pointer"}
+{"s": "linked list", "p": "Is-a-Prerequisite-of", "o": "tail"}
+{"s": "linked list", "p": "Used-for", "o": "searching"}
+{"s": "linked list", "p": "Used-for", "o": "deleting"}
+{"s": "tree", "p": "Compare", "o": "linked list"}
+{"s": "Binary Search Tree", "p": "Compare", "o": "linked list"}
+{"s": "Shell sort", "p": "Compare", "o": "linked list"}
+{"s": "nodeToRemove", "p": "Part-of", "o": "linked list"}
+{"s": "sorted list", "p": "Used-for", "o": "merging"}
+{"s": "post list sorted", "p": "Hyponym-Of", "o": "sorted list"}
+{"s": "sorted list", "p": "Part-of", "o": "data structure"}
+{"s": "sorted list", "p": "Compare", "o": "unsorted list"}
+{"s": "insertion sort", "p": "Compare", "o": "quick sort"}
+{"s": "insertion sort", "p": "Is-a-Prerequisite-of", "o": "sorting algorithm"}
+{"s": "sorted lists", "p": "Conjunction", "o": "unsorted lists"}
+{"s": "list sorted", "p": "Is-a-Prerequisite-of", "o": "merging the sorted lists back together"}
+{"s": "list sorted", "p": "Compare", "o": "unsorted"}
+{"s": "list sorted", "p": "Compare", "o": "implicitly sorted"}
+{"s": "singly linked list", "p": "Is-a-Prerequisite-of", "o": "reverse list traversal"}
+{"s": "recursive algorithm", "p": "Is-a-Prerequisite-of", "o": "Appendix C"}
+{"s": "recursive algorithm", "p": "Compare", "o": "iterative algorithm"}
+{"s": "recursive algorithm", "p": "Part-of", "o": "Algorithms"}
+{"s": "recursive algorithm", "p": "Used-for", "o": "tree"}
+{"s": "recursive algorithm", "p": "Evaluate-for", "o": "efficiency"}
+{"s": "iterative algorithm", "p": "Compare", "o": "recursive algorithm"}
+{"s": "recursive algorithm", "p": "Is-a-Prerequisite-of", "o": "recursive calls"}
+{"s": "recursive algorithm", "p": "Used-for", "o": "tree’s"}
+{"s": "recursive algorithm", "p": "Evaluate-for", "o": "stack size"}
+{"s": "data structure", "p": "Part-of", "o": "recursive algorithm"}
+{"s": "recursive algorithm", "p": "Is-a-Prerequisite-of", "o": "return statement"}
+{"s": "Fibonacci algorithm", "p": "Hyponym-Of", "o": "recursive algorithm"}
+{"s": "call chain", "p": "Part-of", "o": "recursive algorithm"}
+{"s": "return statement", "p": "Part-of", "o": "recursive algorithm"}
+{"s": "recursive algorithm", "p": "Is-a-Prerequisite-of", "o": "algorithm trace"}
+{"s": "algorithm described", "p": "Part-of", "o": "recursive algorithm"}
+{"s": "recursive algorithm", "p": "Compare", "o": "non-recursive algorithm"}
+{"s": "recursive algorithm", "p": "Is-a-Prerequisite-of", "o": "algorithm"}
+{"s": "data structure", "p": "Part-of", "o": "iterative algorithm"}
+{"s": "return statement", "p": "Used-for", "o": "iterative algorithm"}
+{"s": "iterative algorithm", "p": "Part-of", "o": "program"}
+{"s": "resizing algorithm", "p": "Used-for", "o": "data structure"}
+{"s": "Algorithms", "p": "Part-of", "o": "resizing algorithm"}
+{"s": "deletion algorithm", "p": "Part-of", "o": "algorithms"}
+{"s": "algorithms", "p": "Conjunction", "o": "priority queue"}
+{"s": "Algorithm", "p": "Part-of", "o": "data structure"}
+{"s": "data structure", "p": "Part-of", "o": "Algorithms"}
+{"s": "return statement", "p": "Used-for", "o": "data structure"}
+{"s": "BST", "p": "Part-of", "o": "data structure"}
+{"s": "Avl", "p": "Part-of", "o": "data structure"}
+{"s": "data structure", "p": "Part-of", "o": "program"}
+{"s": "data structure", "p": "Part-of", "o": "computer science"}
+{"s": "algorithm", "p": "Is-a-Prerequisite-of", "o": "data structure"}
+{"s": "array", "p": "Part-of", "o": "data structure"}
+{"s": "resizing algorithm", "p": "Part-of", "o": "data structure"}
+{"s": "Add method", "p": "Is-a-Prerequisite-of", "o": "data structure"}
+{"s": "data structure", "p": "Is-a-Prerequisite-of", "o": "Add method"}
+{"s": "represent type", "p": "Is-a-Prerequisite-of", "o": "data structure"}
+{"s": "data structure", "p": "Part-of", "o": "array"}
+{"s": "tree", "p": "Hyponym-Of", "o": "data structure"}
+{"s": "Algorithm", "p": "Evaluate-for", "o": "data structure"}
+{"s": "string", "p": "Hyponym-Of", "o": "data structure"}
+{"s": "deque", "p": "Part-of", "o": "data structure"}
+{"s": "data structure", "p": "Is-a-Prerequisite-of", "o": "add method"}
+{"s": "height", "p": "Is-a-Prerequisite-of", "o": "building"}
+{"s": "height", "p": "Compare", "o": "other heights"}
+{"s": "height", "p": "Used-for", "o": "determining proportions"}
+{"s": "height", "p": "Used-for", "o": "calculating volume"}
+{"s": "height", "p": "Used-for", "o": "surveying"}
+{"s": "height", "p": "Used-for", "o": "construction"}
+{"s": "height", "p": "Part-of", "o": "measurements"}
+{"s": "index", "p": "Compare", "o": "left"}
+{"s": "index", "p": "Conjunction", "o": "left"}
+{"s": "left", "p": "Conjunction", "o": "index"}
+{"s": "current", "p": "Part-of", "o": "Tree"}
+{"s": "Height", "p": "Part-of", "o": "current"}
+{"s": "current", "p": "Part-of", "o": "Left"}
+{"s": "current", "p": "Part-of", "o": "AVL tree"}
+{"s": "Left", "p": "Part-of", "o": "current"}
+{"s": "current", "p": "Part-of", "o": "Height"}
+{"s": "Right", "p": "Part-of", "o": "current"}
+{"s": "current", "p": "Compare", "o": "Left"}
+{"s": "current", "p": "Compare", "o": "Right"}
+{"s": "Height", "p": "Used-for", "o": "current"}
+{"s": "current", "p": "Used-for", "o": "Height"}
+{"s": "current", "p": "Part-of", "o": "Binary Tree"}
+{"s": "current", "p": "Part-of", "o": "Node"}
+{"s": "right", "p": "Part-of", "o": "current right height"}
+{"s": "right", "p": "Part-of", "o": "Postorder"}
+{"s": "balance factor", "p": "Part-of", "o": "AVL tree"}
+{"s": "balance factor", "p": "Part-of", "o": "red-black tree"}
+{"s": "balance factor", "p": "Used-for", "o": "Maintaining tree balance"}
+{"s": "balance factor", "p": "Compare", "o": "Height of subtrees"}
+{"s": "understand algorithm", "p": "Is-a-Prerequisite-of", "o": "design algorithm"}
+{"s": "understand algorithm", "p": "Used-for", "o": "implement algorithm"}
+{"s": "implementation", "p": "Part-of", "o": "understand algorithm"}
+{"s": "merge sort", "p": "Is-a-Prerequisite-of", "o": "sorting algorithm"}
+{"s": "merge sort", "p": "Used-for", "o": "sorting"}
+{"s": "merge sort", "p": "Hyponym-Of", "o": "divide and conquer algorithm"}
+{"s": "quadratic algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "quadratic algorithm", "p": "Compare", "o": "logarithmic algorithm"}
+{"s": "deletion algorithm", "p": "Is-a-Prerequisite-of", "o": "insertion algorithm"}
+{"s": "deletion algorithm", "p": "Compare", "o": "insertion algorithm"}
+{"s": "insertion algorithm", "p": "Conjunction", "o": "deletion algorithm"}
+{"s": "insertion algorithm", "p": "Used-for", "o": "count"}
+{"s": "insertion algorithm", "p": "Part-of", "o": "sorting algorithm"}
+{"s": "deletion algorithm", "p": "Evaluate-for", "o": "cost"}
+{"s": "deletion algorithm", "p": "Used-for", "o": "count"}
+{"s": "deletion algorithm", "p": "Part-of", "o": "sorting algorithm"}
+{"s": "contains algorithm", "p": "Is-a-Prerequisite-of", "o": "question answering model"}
+{"s": "long short-term memory", "p": "Part-of", "o": "contains algorithm"}
+{"s": "ROUGE", "p": "Evaluate-for", "o": "question answering model"}
+{"s": "Findmin algorithm", "p": "Is-a-Prerequisite-of", "o": "Optimization problem"}
+{"s": "Findmin algorithm", "p": "Used-for", "o": "Finding minimum value"}
+{"s": "Findmin algorithm", "p": "Compare", "o": "Elements in a dataset"}
+{"s": "Findmax Algorithm", "p": "Is-a-Prerequisite-of", "o": "Sorting Algorithm"}
+{"s": "Findmax Algorithm", "p": "Used-for", "o": "Finding the Maximum Element"}
+{"s": "Findmax Algorithm", "p": "Compare", "o": "Elements in a List"}
+{"s": "Findmax Algorithm", "p": "Used-for", "o": "Data Analysis"}
+{"s": "Findmax Algorithm", "p": "Used-for", "o": "Optimization Problems"}
+{"s": "Findmax Algorithm", "p": "Is-a-Prerequisite-of", "o": "Computer Science"}
+{"s": "Intersection algorithm", "p": "Is-a-Prerequisite-of", "o": "Set theory"}
+{"s": "Intersection algorithm", "p": "Used-for", "o": "Data structures"}
+{"s": "Intersection algorithm", "p": "Used-for", "o": "Algorithm design"}
+{"s": "Intersection algorithm", "p": "Used-for", "o": "Computer science"}
+{"s": "Intersection algorithm", "p": "Compare", "o": "Union algorithm"}
+{"s": "Set theory", "p": "Part-of", "o": "Mathematics"}
+{"s": "Data structures", "p": "Part-of", "o": "Computer science"}
+{"s": "Algorithm design", "p": "Part-of", "o": "Computer science"}
+{"s": "right rotation algorithm", "p": "Conjunction", "o": "left rotation algorithm"}
+{"s": "right rotation algorithm", "p": "Compare", "o": "left rotation algorithm"}
+{"s": "implementation", "p": "Is-a-Prerequisite-of", "o": "algorithm"}
+{"s": "implementation", "p": "Evaluate-for", "o": "efficiency"}
+{"s": "custom type check", "p": "Is-a-Prerequisite-of", "o": "type T"}
+{"s": "custom type check", "p": "Is-a-Prerequisite-of", "o": "value"}
+{"s": "sorted value", "p": "Part-of", "o": "ascending order"}
+{"s": "sorted value", "p": "Is-a-Prerequisite-of", "o": "Inorder"}
+{"s": "sorted value", "p": "Is-a-Prerequisite-of", "o": "Ordered"}
+{"s": "ascending order", "p": "Is-a-Prerequisite-of", "o": "sorted value"}
+{"s": "Inorder", "p": "Hyponym-Of", "o": "sorted value"}
+{"s": "Ordered", "p": "Hyponym-Of", "o": "sorted value"}
+{"s": "ascending order", "p": "Compare", "o": "descending order"}
+{"s": "ascending order", "p": "Used-for", "o": "sorting algorithm"}
+{"s": "ascending order", "p": "Conjunction", "o": "descending order"}
+{"s": "return statement", "p": "Part-of", "o": "function"}
+{"s": "return statement", "p": "Used-for", "o": "returning values"}
+{"s": "return statement", "p": "Compare", "o": "while loop"}
+{"s": "return statement", "p": "Compare", "o": "for loop"}
+{"s": "return statement", "p": "Used-for", "o": "function call"}
+{"s": "return statement", "p": "Used-for", "o": "conditional statement"}
+{"s": "return statement", "p": "Compare", "o": "value"}
+{"s": "return value", "p": "Part-of", "o": "return statement"}
+{"s": "return statement", "p": "Used-for", "o": "BST"}
+{"s": "function", "p": "Part-of", "o": "program"}
+{"s": "return statement", "p": "Used-for", "o": "function"}
+{"s": "return type", "p": "Part-of", "o": "function"}
+{"s": "0", "p": "Conjunction", "o": "1"}
+{"s": "0", "p": "Compare", "o": "-1"}
+{"s": "1", "p": "Compare", "o": "-1"}
+{"s": "1", "p": "Part-of", "o": "factorial"}
+{"s": "factorial", "p": "Is-a-Prerequisite-of", "o": "number"}
+{"s": "number", "p": "Used-for", "o": "factorial"}
+{"s": "n", "p": "Part-of", "o": "factorial"}
+{"s": "n", "p": "Is-a-Prerequisite-of", "o": "factorial"}
+{"s": "factorial", "p": "Is-a-Prerequisite-of", "o": "mathematical operation implementation"}
+{"s": "factorial", "p": "Part-of", "o": "mathematical operation"}
+{"s": "recursive implementation", "p": "Is-a-Prerequisite-of", "o": "factorial"}
+{"s": "number", "p": "Part-of", "o": "digit"}
+{"s": "n", "p": "Is-a-Prerequisite-of", "o": "32 bit integer"}
+{"s": "increment", "p": "Used-for", "o": "list manipulation"}
+{"s": "increment", "p": "Used-for", "o": "memory management"}
+{"s": "index", "p": "Used-for", "o": "increment"}
+{"s": "increment", "p": "Part-of", "o": "list increment list"}
+{"s": "Fibonacci algorithm", "p": "Is-a-Prerequisite-of", "o": "Computer science"}
+{"s": "Fibonacci algorithm", "p": "Used-for", "o": "Solving problems"}
+{"s": "Fibonacci algorithm", "p": "Used-for", "o": "Optimization problems"}
+{"s": "Fibonacci sequence", "p": "Part-of", "o": "Fibonacci algorithm"}
+{"s": "Recursive approach", "p": "Used-for", "o": "Fibonacci algorithm"}
+{"s": "Iterative approach", "p": "Used-for", "o": "Fibonacci algorithm"}
+{"s": "Dynamic programming", "p": "Used-for", "o": "Fibonacci algorithm"}
+{"s": "Time complexity", "p": "Evaluate-for", "o": "Fibonacci algorithm"}
+{"s": "Space complexity", "p": "Evaluate-for", "o": "Fibonacci algorithm"}
+{"s": "bst", "p": "Part-of", "o": "root"}
+{"s": "bst", "p": "Part-of", "o": "value"}
+{"s": "bst", "p": "Is-a-Prerequisite-of", "o": "worst case scenario"}
+{"s": "AVL tree", "p": "Is-a-Prerequisite-of", "o": "balanced search tree"}
+{"s": "AVL tree", "p": "Used-for", "o": "efficient data storage"}
+{"s": "AVL tree", "p": "Used-for", "o": "efficient search operations"}
+{"s": "AVL tree", "p": "Compare", "o": "other self-balancing trees"}
+{"s": "self-balancing", "p": "Part-of", "o": "AVL tree"}
+{"s": "rotation", "p": "Used-for", "o": "AVL tree"}
+{"s": "search", "p": "Used-for", "o": "AVL tree"}
+{"s": "insertion", "p": "Used-for", "o": "AVL tree"}
+{"s": "deletion", "p": "Used-for", "o": "AVL tree"}
+{"s": "function call", "p": "Part-of", "o": "program"}
+{"s": "conditional statement", "p": "Part-of", "o": "program"}
+{"s": "algorithm", "p": "Is-a-Prerequisite-of", "o": "return type"}
+{"s": "selecting correct sorting algorithm", "p": "Used-for", "o": "efficiency"}
+{"s": "selecting correct sorting algorithm", "p": "Evaluate-for", "o": "efficiency"}
+{"s": "selecting correct sorting algorithm", "p": "Is-a-Prerequisite-of", "o": "efficiency"}
+{"s": "sorting algorithms", "p": "Part-of", "o": "computer science"}
+{"s": "sorting algorithms", "p": "Compare", "o": "search algorithms"}
+{"s": "algorithm described", "p": "Compare", "o": "sorting algorithms"}
+{"s": "radix sort", "p": "Compare", "o": "sorting algorithms"}
+{"s": "sorting algorithms", "p": "Is-a-Prerequisite-of", "o": "algorithms"}
+{"s": "sorting algorithm", "p": "Part-of", "o": "sorting"}
+{"s": "pivot list", "p": "Used-for", "o": "sorting"}
+{"s": "algorithm", "p": "Is-a-Prerequisite-of", "o": "sorting"}
+{"s": "sorting", "p": "Conjunction", "o": "string operations"}
+{"s": "step", "p": "Part-of", "o": "match"}
+{"s": "match", "p": "Is-a-Prerequisite-of", "o": "step"}
+{"s": "match", "p": "Is-a-Prerequisite-of", "o": "second step"}
+{"s": "Taking the first step", "p": "Is-a-Prerequisite-of", "o": "achieving a goal"}
+{"s": "Taking the first step", "p": "Is-a-Prerequisite-of", "o": "success"}
+{"s": "First step", "p": "Hyponym-Of", "o": "Step"}
+{"s": "second step", "p": "Is-a-Prerequisite-of", "o": "overall process"}
+{"s": "second step", "p": "Part-of", "o": "multi-step process"}
+{"s": "step", "p": "Part-of", "o": "figure"}
+{"s": "Figure 11.1", "p": "Part-of", "o": "Book"}
+{"s": "Figure 11.2", "p": "Part-of", "o": "Chapter 11"}
+{"s": "Figure 11.4", "p": "Part-of", "o": "Book"}
+{"s": "Figure 7.1", "p": "Part-of", "o": "Book"}
+{"s": "Figure 7.2", "p": "Part-of", "o": "Book"}
+{"s": "Figure a.2", "p": "Part-of", "o": "Thesis"}
+{"s": "Figure 11.5", "p": "Part-of", "o": "Book"}
+{"s": "Figure 11.2", "p": "Used-for", "o": "string indexing"}
+{"s": "TDD", "p": "Is-a-Prerequisite-of", "o": "code coverage"}
+{"s": "TDD", "p": "Is-a-Prerequisite-of", "o": "unit test"}
+{"s": "TDD", "p": "Is-a-Prerequisite-of", "o": "testing"}
+{"s": "TDD", "p": "Is-a-Prerequisite-of", "o": "writing tests"}
+{"s": "TDD", "p": "Is-a-Prerequisite-of", "o": "continuous integration"}
+{"s": "TDD", "p": "Is-a-Prerequisite-of", "o": "refactoring"}
+{"s": "TDD", "p": "Is-a-Prerequisite-of", "o": "agile development"}
+{"s": "TDD", "p": "Used-for", "o": "software development"}
+{"s": "diagram", "p": "Used-for", "o": "visualise problem"}
+{"s": "problem", "p": "Used-for", "o": "diagram"}
+{"s": "trace table", "p": "Used-for", "o": "verify algorithm correctness"}
+{"s": "trace table", "p": "Used-for", "o": "larger diagram"}
+{"s": "index", "p": "Part-of", "o": "array"}
+{"s": "queues", "p": "Part-of", "o": "array"}
+{"s": "array index", "p": "Part-of", "o": "array"}
+{"s": "array", "p": "Used-for", "o": "tree"}
+{"s": "heap array", "p": "Compare", "o": "array"}
+{"s": "Figure 11.2", "p": "Part-of", "o": "array"}
+{"s": "string", "p": "Part-of", "o": "array"}
+{"s": "string", "p": "Hyponym-Of", "o": "array"}
+{"s": "resizing algorithms", "p": "Used-for", "o": "array"}
+{"s": "array", "p": "Used-for", "o": "runtime"}
+{"s": "array", "p": "Used-for", "o": "represent a tree as"}
+{"s": "array", "p": "Used-for", "o": "represent tree"}
+{"s": "array", "p": "Used-for", "o": "represent string"}
+{"s": "string", "p": "Part-of", "o": "Figure 11.2"}
+{"s": "string", "p": "Conjunction", "o": "punctuation"}
+{"s": "Figure 11.2", "p": "Part-of", "o": "string"}
+{"s": "string", "p": "Part-of", "o": "contiguous memory"}
+{"s": "IsPalindrome algorithm", "p": "Used-for", "o": "string"}
+{"s": "string", "p": "Is-a-Prerequisite-of", "o": "string operations"}
+{"s": "logarithmic searching algorithm", "p": "Used-for", "o": "AVL tree"}
+{"s": "logarithmic searching algorithm", "p": "Used-for", "o": "BST"}
+{"s": "inheritance", "p": "Used-for", "o": "defining classes of tests"}
+{"s": "avl tree", "p": "Is-a-Prerequisite-of", "o": "preserving tree balance"}
+{"s": "avl tree", "p": "Is-a-Prerequisite-of", "o": "logarithmic time complexity"}
+{"s": "avl tree", "p": "Is-a-Prerequisite-of", "o": "ordered set"}
+{"s": "avl tree", "p": "Is-a-Prerequisite-of", "o": "logarithmic time"}
+{"s": "avl tree", "p": "Is-a-Prerequisite-of", "o": "tree rotation"}
+{"s": "avl tree", "p": "Hyponym-Of", "o": "binary search tree"}
+{"s": "avl tree", "p": "Used-for", "o": "avoiding worst case linear complexity runtimes"}
+{"s": "avl tree", "p": "Used-for", "o": "guaranteeing logarithmic time complexity"}
+{"s": "priority queue", "p": "Is-a-Prerequisite-of", "o": "custom comparer"}
+{"s": "priority queue", "p": "Compare", "o": "normal queue"}
+{"s": "priority queue", "p": "Part-of", "o": "heap data structure"}
+{"s": "priority queue", "p": "Used-for", "o": "determining order of items"}
+{"s": "heap data structure", "p": "Used-for", "o": "priority queue"}
+{"s": "deque", "p": "Compare", "o": "priority queue"}
+{"s": "priority queue", "p": "Part-of", "o": "deque"}
+{"s": "Palindrome algorithm", "p": "Is-a-Prerequisite-of", "o": "String manipulation"}
+{"s": "Palindrome algorithm", "p": "Used-for", "o": "Checking if a given string is a palindrome"}
+{"s": "String manipulation", "p": "Part-of", "o": "Computer science"}
+{"s": "String", "p": "Part-of", "o": "Data structure"}
+{"s": "String", "p": "Used-for", "o": "Palindrome algorithm"}
+{"s": "Algorithm", "p": "Hyponym-Of", "o": "Computer science"}
+{"s": "introduction", "p": "Part-of", "o": "book outline"}
+{"s": "introduction", "p": "Is-a-Prerequisite-of", "o": "chapter"}
+{"s": "head", "p": "Part-of", "o": "sequence"}
+{"s": "tail", "p": "Part-of", "o": "sequence"}
+{"s": "head", "p": "Conjunction", "o": "tail"}
+{"s": "sequence", "p": "Used-for", "o": "long short-term memory"}
+{"s": "head", "p": "Part-of", "o": "sentence"}
+{"s": "head", "p": "Part-of", "o": "paragraph"}
+{"s": "head", "p": "Part-of", "o": "document"}
+{"s": "head", "p": "Used-for", "o": "question answering"}
+{"s": "head", "p": "Used-for", "o": "text summarization"}
+{"s": "Insertion sort", "p": "Is-a-Prerequisite-of", "o": "Sorting algorithm"}
+{"s": "Insertion sort", "p": "Used-for", "o": "Sorting"}
+{"s": "Insertion", "p": "Part-of", "o": "Insertion sort"}
+{"s": "Insertion", "p": "Used-for", "o": "Database"}
+{"s": "Insertion", "p": "Used-for", "o": "Data structure"}
+{"s": "Deletion", "p": "Is-a-Prerequisite-of", "o": "Data cleaning"}
+{"s": "Deletion", "p": "Used-for", "o": "Improving model performance"}
+{"s": "Deletion", "p": "Used-for", "o": "Data preprocessing"}
+{"s": "Deletion", "p": "Used-for", "o": "Removing irrelevant information"}
+{"s": "Traversal", "p": "Is-a-Prerequisite-of", "o": "Graph algorithms"}
+{"s": "Graph algorithms", "p": "Used-for", "o": "Graph traversal"}
+{"s": "Traversal", "p": "Used-for", "o": "Graph processing"}
+{"s": "Traversal", "p": "Used-for", "o": "Data exploration"}
+{"s": "Traversal", "p": "Used-for", "o": "Network analysis"}
+{"s": "passed custom type check", "p": "Is-a-Prerequisite-of", "o": "value"}
+{"s": "passed custom type check", "p": "Is-a-Prerequisite-of", "o": "type T"}
+{"s": "postorder traversal", "p": "Is-a-Prerequisite-of", "o": "binary search tree traversal"}
+{"s": "postorder traversal", "p": "Is-a-Prerequisite-of", "o": "right subtree traversal"}
+{"s": "postorder traversal", "p": "Is-a-Prerequisite-of", "o": "left subtree traversal"}
+{"s": "postorder traversal", "p": "Part-of", "o": "tree traversal"}
+{"s": "postorder traversal", "p": "Is-a-Prerequisite-of", "o": "recursion"}
+{"s": "postorder traversal", "p": "Used-for", "o": "tree algorithms"}
+{"s": "Binary Search Tree Traversal", "p": "Is-a-Prerequisite-of", "o": "Data Structures"}
+{"s": "Binary Search Tree Traversal", "p": "Used-for", "o": "Tree Traversal Algorithms"}
+{"s": "Inorder Traversal", "p": "Part-of", "o": "Binary Search Tree Traversal"}
+{"s": "Preorder Traversal", "p": "Part-of", "o": "Binary Search Tree Traversal"}
+{"s": "Postorder Traversal", "p": "Part-of", "o": "Binary Search Tree Traversal"}
+{"s": "postorder traversal", "p": "Is-a-Prerequisite-of", "o": "binary search tree"}
+{"s": "postorder traversal", "p": "Used-for", "o": "tree traversal"}
+{"s": "item", "p": "Compare", "o": "list index"}
+{"s": "list index", "p": "Compare", "o": "array index"}
+{"s": "indexOfKey", "p": "Part-of", "o": "item"}
+{"s": "item", "p": "Part-of", "o": "queues"}
+{"s": "index", "p": "Evaluate-for", "o": "item search"}
+{"s": "index", "p": "Used-for", "o": "item search"}
+{"s": "index", "p": "Compare", "o": "list.Count"}
+{"s": "index", "p": "Used-for", "o": "search"}
+{"s": "index", "p": "Used-for", "o": "FindIndex"}
+{"s": "index", "p": "Compare", "o": "top-of-stack index"}
+{"s": "index", "p": "Used-for", "o": "memory management"}
+{"s": "top-of-stack index", "p": "Compare", "o": "index"}
+{"s": "index", "p": "Part-of", "o": "Left"}
+{"s": "parent", "p": "Part-of", "o": "index"}
+{"s": "index", "p": "Part-of", "o": "Part I"}
+{"s": "index", "p": "Part-of", "o": "Part II"}
+{"s": "index", "p": "Compare", "o": "parent index"}
+{"s": "index", "p": "Is-a-Prerequisite-of", "o": "FindParent"}
+{"s": "index", "p": "Used-for", "o": "FindNode"}
+{"s": "index", "p": "Part-of", "o": "Array"}
+{"s": "index", "p": "Used-for", "o": "SequentialSearch"}
+{"s": "index", "p": "Used-for", "o": "ProbabilitySearch"}
+{"s": "index", "p": "Used-for", "o": "searching"}
+{"s": "index", "p": "Is-a-Prerequisite-of", "o": "findparent"}
+{"s": "post list sorted", "p": "Is-a-Prerequisite-of", "o": "efficient search"}
+{"s": "efficient search", "p": "Evaluate-for", "o": "performance"}
+{"s": "efficient search", "p": "Evaluate-for", "o": "post list sorted"}
+{"s": "efficient search", "p": "Is-a-Prerequisite-of", "o": "user experience"}
+{"s": "nodetoremove", "p": "Is-a-Prerequisite-of", "o": "removal of a value"}
+{"s": "nodetoremove", "p": "Is-a-Prerequisite-of", "o": "removal of a leaf node"}
+{"s": "nodetoremove", "p": "Is-a-Prerequisite-of", "o": "removal of a node"}
+{"s": "leaf node", "p": "Is-a-Prerequisite-of", "o": "removal of a value"}
+{"s": "root", "p": "Part-of", "o": "tree"}
+{"s": "Right", "p": "Part-of", "o": "root"}
+{"s": "Postorder", "p": "Part-of", "o": "root"}
+{"s": "root", "p": "Part-of", "o": "Binary Tree"}
+{"s": "root", "p": "Part-of", "o": "value"}
+{"s": "root", "p": "Is-a-Prerequisite-of", "o": "CheckBalance"}
+{"s": "nodetoremove.value", "p": "Is-a-Prerequisite-of", "o": "node removal"}
+{"s": "node removal", "p": "Used-for", "o": "graph optimization"}
+{"s": "nodetoremove.left", "p": "Is-a-Prerequisite-of", "o": "nodetoremove.right"}
+{"s": "nodetoremove.right", "p": "Is-a-Prerequisite-of", "o": "nodetoremove.left"}
+{"s": "Min-heap", "p": "Compare", "o": "value"}
+{"s": "Max-heap", "p": "Compare", "o": "value"}
+{"s": "value", "p": "Is-a-Prerequisite-of", "o": "InsertNode"}
+{"s": "value", "p": "Is-a-Prerequisite-of", "o": "Remove"}
+{"s": "value", "p": "Is-a-Prerequisite-of", "o": "Contains"}
+{"s": "value", "p": "Is-a-Prerequisite-of", "o": "FindNode"}
+{"s": "value", "p": "Is-a-Prerequisite-of", "o": "FindParent"}
+{"s": "value", "p": "Used-for", "o": "BST"}
+{"s": "value", "p": "Used-for", "o": "AVL tree"}
+{"s": "value", "p": "Used-for", "o": "search tree"}
+{"s": "value", "p": "Compare", "o": "located"}
+{"s": "value", "p": "Compare", "o": "not located"}
+{"s": "value", "p": "Conjunction", "o": "yield"}
+{"s": "value", "p": "Is-a-Prerequisite-of", "o": "true"}
+{"s": "value", "p": "Is-a-Prerequisite-of", "o": "false"}
+{"s": "Remove algorithm", "p": "Is-a-Prerequisite-of", "o": "value"}
+{"s": "value", "p": "Is-a-Prerequisite-of", "o": "remove"}
+{"s": "value", "p": "Is-a-Prerequisite-of", "o": "contains"}
+{"s": "value", "p": "Is-a-Prerequisite-of", "o": "insertnode"}
+{"s": "value", "p": "Is-a-Prerequisite-of", "o": "findparent"}
+{"s": "value", "p": "Is-a-Prerequisite-of", "o": "findnode"}
+{"s": "tree rotation", "p": "Used-for", "o": "AVL tree"}
+{"s": "Binary Search Tree", "p": "Used-for", "o": "searching"}
+{"s": "heap array", "p": "Used-for", "o": "searching"}
+{"s": "Binary Search", "p": "Is-a-Prerequisite-of", "o": "Algorithm Design"}
+{"s": "Binary Search", "p": "Compare", "o": "Elements"}
+{"s": "Binary Search", "p": "Part-of", "o": "Search Algorithms"}
+{"s": "Algorithm Design", "p": "Is-a-Prerequisite-of", "o": "Computer Science"}
+{"s": "Searching Sorted Data", "p": "Hyponym-Of", "o": "Searching"}
+{"s": "Search Algorithms", "p": "Part-of", "o": "Computer Science"}
+{"s": "inorder traversal", "p": "Is-a-Prerequisite-of", "o": "binary search tree"}
+{"s": "inorder traversal", "p": "Used-for", "o": "tree traversal"}
+{"s": "inorder traversal", "p": "Used-for", "o": "binary tree"}
+{"s": "inorder traversal", "p": "Used-for", "o": "graph traversal"}
+{"s": "preorder traversal", "p": "Is-a-Prerequisite-of", "o": "tree traversal"}
+{"s": "preorder traversal", "p": "Used-for", "o": "binary search tree"}
+{"s": "preorder traversal", "p": "Used-for", "o": "binary tree"}
+{"s": "preorder traversal", "p": "Used-for", "o": "graph traversal"}
+{"s": "tree traversal", "p": "Part-of", "o": "graph traversal"}
+{"s": "binary search tree", "p": "Hyponym-Of", "o": "binary tree"}
+{"s": "binary tree", "p": "Hyponym-Of", "o": "graph"}
+{"s": "Postorder traversal", "p": "Is-a-Prerequisite-of", "o": "Tree traversal"}
+{"s": "Postorder traversal", "p": "Used-for", "o": "Graph algorithms"}
+{"s": "Postorder traversal", "p": "Used-for", "o": "Binary tree"}
+{"s": "Tree traversal", "p": "Part-of", "o": "Graph theory"}
+{"s": "Graph algorithms", "p": "Part-of", "o": "Computer science"}
+{"s": "Binary tree", "p": "Part-of", "o": "Data structures"}
+{"s": "Breadth-first search", "p": "Used-for", "o": "Web crawling"}
+{"s": "Queue", "p": "Used-for", "o": "Breadth-first search"}
+{"s": "Graph traversal", "p": "Is-a-Prerequisite-of", "o": "Graph algorithms"}
+{"s": "BST", "p": "Hyponym-Of", "o": "tree"}
+{"s": "Avl", "p": "Hyponym-Of", "o": "tree"}
+{"s": "AVL tree", "p": "Hyponym-Of", "o": "tree"}
+{"s": "nodeToRemove", "p": "Part-of", "o": "tree"}
+{"s": "Left", "p": "Part-of", "o": "tree"}
+{"s": "Right", "p": "Part-of", "o": "tree"}
+{"s": "tree", "p": "Part-of", "o": "AVL tree"}
+{"s": "root node", "p": "Part-of", "o": "tree"}
+{"s": "parent.left", "p": "Part-of", "o": "binary tree"}
+{"s": "rotation", "p": "Is-a-Prerequisite-of", "o": "algorithms"}
+{"s": "rotation algorithm", "p": "Is-a-Prerequisite-of", "o": "algorithms"}
+{"s": "rotation algorithm", "p": "Part-of", "o": "Algorithms"}
+{"s": "rotation algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Algorithms", "p": "Used-for", "o": "data structures"}
+{"s": "Algorithms", "p": "Compare", "o": "sorting algorithms"}
+{"s": "Algorithms", "p": "Conjunction", "o": "data structures and algorithms"}
+{"s": "Algorithms", "p": "Evaluate-for", "o": "data structures"}
+{"s": "sorting algorithms", "p": "Part-of", "o": "Algorithms"}
+{"s": "Merge sort", "p": "Hyponym-Of", "o": "sorting algorithms"}
+{"s": "Quick sort", "p": "Hyponym-Of", "o": "sorting algorithms"}
+{"s": "Insertion sort", "p": "Hyponym-Of", "o": "sorting algorithms"}
+{"s": "Radix sort", "p": "Hyponym-Of", "o": "sorting algorithms"}
+{"s": "Probability search", "p": "Hyponym-Of", "o": "searching algorithms"}
+{"s": "algorithm", "p": "Used-for", "o": "resizing"}
+{"s": "algorithm", "p": "Used-for", "o": "hashing"}
+{"s": "algorithm", "p": "Used-for", "o": "searching"}
+{"s": "algorithm", "p": "Part-of", "o": "Data Structures and Algorithms"}
+{"s": "Iterative algorithms", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Recursive algorithms", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "balancing algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Insertion algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "Deletion algorithm", "p": "Hyponym-Of", "o": "algorithm"}
+{"s": "big o notation", "p": "Is-a-Prerequisite-of", "o": "runtime complexity analysis"}
+{"s": "big o notation", "p": "Used-for", "o": "algorithm analysis"}
+{"s": "big o notation", "p": "Used-for", "o": "algorithm efficiency"}
+{"s": "big o notation", "p": "Used-for", "o": "data structure analysis"}
+{"s": "asymptotic run time", "p": "Part-of", "o": "algorithm analysis"}
+{"s": "asymptotic run time", "p": "Used-for", "o": "algorithm efficiency evaluation"}
+{"s": "prototype algorithm", "p": "Is-a-Prerequisite-of", "o": "algorithm design"}
+{"s": "algorithm described", "p": "Is-a-Prerequisite-of", "o": "algorithm design"}
+{"s": "algorithm", "p": "Is-a-Prerequisite-of", "o": "algorithm design"}
+{"s": "algorithm design", "p": "Used-for", "o": "solving the problem"}
+{"s": "algorithm design", "p": "Evaluate-for", "o": "efficiency"}
+{"s": "loops", "p": "Part-of", "o": "algorithm design"}
+{"s": "algorithm design", "p": "Is-a-Prerequisite-of", "o": "algorithm"}
+{"s": "pre-condition", "p": "Is-a-Prerequisite-of", "o": "task"}
+{"s": "pre-condition", "p": "Is-a-Prerequisite-of", "o": "action"}
+{"s": "pre-condition", "p": "Is-a-Prerequisite-of", "o": "goal"}
+{"s": "test cases", "p": "Used-for", "o": "algorithm validation"}
+{"s": "test cases", "p": "Used-for", "o": "algorithm verification"}
+{"s": "efficiency", "p": "Evaluate-for", "o": "sorting algorithm"}
+{"s": "Merge sort", "p": "Is-a-Prerequisite-of", "o": "sorting algorithm"}
+{"s": "Quick sort", "p": "Is-a-Prerequisite-of", "o": "sorting algorithm"}
+{"s": "Insertion sort", "p": "Is-a-Prerequisite-of", "o": "sorting algorithm"}
+{"s": "Radix sort", "p": "Is-a-Prerequisite-of", "o": "sorting algorithm"}
+{"s": "generic sorting algorithm", "p": "Hyponym-Of", "o": "sorting algorithm"}
+{"s": "sorting algorithm", "p": "Is-a-Prerequisite-of", "o": "demonstrating sorting"}
+{"s": "sorting algorithm", "p": "Is-a-Prerequisite-of", "o": "efficiency"}
+{"s": "sorting algorithm", "p": "Is-a-Prerequisite-of", "o": "demonstration"}
+{"s": "logarithmic algorithm", "p": "Compare", "o": "quadratic algorithm"}
+{"s": "Add algorithm", "p": "Is-a-Prerequisite-of", "o": "Machine learning"}
+{"s": "Add algorithm", "p": "Used-for", "o": "Data processing"}
+{"s": "Add algorithm", "p": "Used-for", "o": "Numerical computation"}
+{"s": "remove algorithm", "p": "Is-a-Prerequisite-of", "o": "helper algorithms"}
+{"s": "remove algorithm", "p": "Is-a-Prerequisite-of", "o": "value"}
+{"s": "Dijkstra's Algorithm", "p": "Is-a-Prerequisite-of", "o": "Graph Traversal"}
+{"s": "A*", "p": "Is-a-Prerequisite-of", "o": "Graph Traversal"}
+{"s": "Bellman-Ford Algorithm", "p": "Is-a-Prerequisite-of", "o": "Graph Traversal"}
+{"s": "Floyd-Warshall Algorithm", "p": "Is-a-Prerequisite-of", "o": "Graph Traversal"}
+{"s": "Graph Traversal", "p": "Used-for", "o": "Graph Algorithms"}
+{"s": "Graph Traversal", "p": "Used-for", "o": "Pathfinding"}
+{"s": "Graph Traversal", "p": "Used-for", "o": "Network Analysis"}
+{"s": "Breadth-First Search", "p": "Used-for", "o": "Finding the shortest path in unweighted graphs"}
+{"s": "Depth-First Search", "p": "Used-for", "o": "Topological sorting"}
+{"s": "Dijkstra's Algorithm", "p": "Used-for", "o": "Finding the shortest path in weighted graphs with non-negative edge weights"}
+{"s": "A*", "p": "Used-for", "o": "Finding the shortest path in weighted graphs using heuristics"}
+{"s": "Bellman-Ford Algorithm", "p": "Used-for", "o": "Finding the shortest path in weighted graphs with possible negative edge weights"}
+{"s": "Floyd-Warshall Algorithm", "p": "Used-for", "o": "Finding the shortest paths between all pairs of vertices in a graph"}
+{"s": "Reverse traversal algorithm", "p": "Is-a-Prerequisite-of", "o": "Graph traversal"}
+{"s": "Reverse traversal algorithm", "p": "Used-for", "o": "Pathfinding"}
+{"s": "Reverse traversal algorithm", "p": "Used-for", "o": "Dependency analysis"}
+{"s": "Insertion Sort", "p": "Used-for", "o": "Sorting"}
+{"s": "Merge Sort", "p": "Is-a-Prerequisite-of", "o": "Sorting Algorithm"}
+{"s": "Merge Sort", "p": "Used-for", "o": "Sorting"}
+{"s": "Quick Sort", "p": "Is-a-Prerequisite-of", "o": "Sorting Algorithm"}
+{"s": "Quick Sort", "p": "Used-for", "o": "Sorting"}
+{"s": "Sorting Algorithm", "p": "Hyponym-Of", "o": "Algorithm"}
+{"s": "Algorithm", "p": "Used-for", "o": "Problem Solving"}
+{"s": "InsertNode algorithm", "p": "Is-a-Prerequisite-of", "o": "Graph Traversal"}
+{"s": "InsertNode algorithm", "p": "Used-for", "o": "Graph Modification"}
+{"s": "InsertNode algorithm", "p": "Used-for", "o": "Network analysis"}
+{"s": "Graph Traversal", "p": "Part-of", "o": "Graph Algorithms"}
+{"s": "Graph Modification", "p": "Part-of", "o": "Graph Algorithms"}
+{"s": "Network analysis", "p": "Part-of", "o": "Graph Algorithms"}
+{"s": "findparent algorithm", "p": "Is-a-Prerequisite-of", "o": "tree traversal"}
+{"s": "findparent algorithm", "p": "Used-for", "o": "finding parent nodes"}
+{"s": "findparent algorithm", "p": "Used-for", "o": "hierarchical data structures"}
+{"s": "tree traversal", "p": "Part-of", "o": "graph algorithms"}
+{"s": "findparent algorithm", "p": "Is-a-Prerequisite-of", "o": "graph algorithms"}
+{"s": "findnode algorithm", "p": "Is-a-Prerequisite-of", "o": "preorder algorithm"}
+{"s": "FindNode algorithm", "p": "Is-a-Prerequisite-of", "o": "preorder algorithm"}
+{"s": "Postorder algorithm", "p": "Is-a-Prerequisite-of", "o": "Tree traversal"}
+{"s": "Postorder algorithm", "p": "Used-for", "o": "Binary tree"}
+{"s": "Postorder algorithm", "p": "Used-for", "o": "Graph traversal"}
+{"s": "Postorder algorithm", "p": "Used-for", "o": "Expression evaluation"}
+{"s": "Postorder algorithm", "p": "Used-for", "o": "Code generation"}
+{"s": "Postorder algorithm", "p": "Used-for", "o": "Compilation"}
+{"s": "Postorder algorithm", "p": "Used-for", "o": "Serialization"}
+{"s": "Tree traversal", "p": "Part-of", "o": "Graph algorithms"}
+{"s": "Binary tree", "p": "Part-of", "o": "Tree"}
+{"s": "Expression evaluation", "p": "Part-of", "o": "Compiler design"}
+{"s": "Code generation", "p": "Part-of", "o": "Compiler design"}
+{"s": "Compilation", "p": "Part-of", "o": "Compiler design"}
+{"s": "Serialization", "p": "Part-of", "o": "Data Structures and Algorithms"}
+{"s": "inorder traversal", "p": "Used-for", "o": "data structure"}
+{"s": "Breadth-first search", "p": "Used-for", "o": "Graph algorithms"}
+{"s": "Min-heapify algorithm", "p": "Is-a-Prerequisite-of", "o": "Heap sort"}
+{"s": "Min-heapify algorithm", "p": "Used-for", "o": "Building a min-heap"}
+{"s": "Min-heapify algorithm", "p": "Used-for", "o": "Heap-based priority queue"}
+{"s": "Min-heap", "p": "Part-of", "o": "Min-heapify algorithm"}
+{"s": "Binary tree", "p": "Part-of", "o": "Min-heap"}
+{"s": "Binary heap", "p": "Is-a-Prerequisite-of", "o": "Min-heapify algorithm"}
+{"s": "Max-Heapify", "p": "Is-a-Prerequisite-of", "o": "Heap-Sort"}
+{"s": "Max-Heapify", "p": "Used-for", "o": "Maintaining-heap-property"}
+{"s": "Max-Heapify", "p": "Part-of", "o": "Heap-based-priority-queue"}
+{"s": "Max-Heapify", "p": "Used-for", "o": "Building-a-heap"}
+{"s": "Heap", "p": "Part-of", "o": "Max-Heapify"}
+{"s": "Heap-Sort", "p": "Used-for", "o": "Sorting"}
+{"s": "Maintaining-heap-property", "p": "Is-a-Prerequisite-of", "o": "Efficient-heap-operations"}
+{"s": "Building-a-heap", "p": "Is-a-Prerequisite-of", "o": "Heap-sort"}
+{"s": "Union Algorithm", "p": "Is-a-Prerequisite-of", "o": "Set Theory"}
+{"s": "Union Algorithm", "p": "Used-for", "o": "Data Structures"}
+{"s": "Union Algorithm", "p": "Used-for", "o": "Database Management"}
+{"s": "Union Algorithm", "p": "Used-for", "o": "Algorithm Design"}
+{"s": "Union Algorithm", "p": "Used-for", "o": "Machine Learning"}
+{"s": "Union Algorithm", "p": "Compare", "o": "Intersection Algorithm"}
+{"s": "Big O notation", "p": "Used-for", "o": "algorithm analysis"}
+{"s": "algorithm analysis", "p": "Conjunction", "o": "growth"}
+{"s": "pre-conditions", "p": "Is-a-Prerequisite-of", "o": "algorithm"}
+{"s": "Pseudocode", "p": "Used-for", "o": "algorithm implementation"}
+{"s": "algorithm implementation", "p": "Is-a-Prerequisite-of", "o": "vast majority case satisfied"}
+{"s": "imperative programming", "p": "Conjunction", "o": "algorithm implementation"}
+{"s": "GetQueueIndex", "p": "Used-for", "o": "queues"}
+{"s": "indexofkey", "p": "Used-for", "o": "searching"}
+{"s": "indexofkey", "p": "Used-for", "o": "data retrieval"}
+{"s": "top-of-stack index", "p": "Part-of", "o": "stack"}
+{"s": "run time complexity analysis", "p": "Is-a-Prerequisite-of", "o": "Big Oh notation"}
+{"s": "run time complexity analysis", "p": "Used-for", "o": "Big Oh notation"}
+{"s": "run time complexity analysis", "p": "Is-a-Prerequisite-of", "o": "oh notation extensively"}
+{"s": "oh notation extensively", "p": "Used-for", "o": "Rotation"}
+{"s": "run time complexity analysis", "p": "Used-for", "o": "oh notation extensively"}
+{"s": "oh notation extensively", "p": "Is-a-Prerequisite-of", "o": "algorithm analysis"}
+{"s": "Searching algorithms", "p": "Evaluate-for", "o": "efficiency"}
+{"s": "Sorting algorithm", "p": "Evaluate-for", "o": "efficiency"}
+{"s": "AVL tree", "p": "Evaluate-for", "o": "efficiency"}
+{"s": "Selection sort", "p": "Is-a-Prerequisite-of", "o": "Computer science"}
+{"s": "Selection sort", "p": "Used-for", "o": "Sorting algorithms"}
+{"s": "Selection sort", "p": "Compare", "o": "Elements"}
+{"s": "Selection sort", "p": "Used-for", "o": "Finding minimum element"}
+{"s": "Selection sort", "p": "Part-of", "o": "Sorting algorithms"}
+{"s": "Bubble Sort", "p": "Is-a-Prerequisite-of", "o": "Sorting Algorithm"}
+{"s": "Bubble Sort", "p": "Used-for", "o": "Sorting Data"}
+{"s": "Bubble Sort", "p": "Compare", "o": "Adjacent Elements"}
+{"s": "Bubble Sort", "p": "Compare", "o": "Pairs of elements"}
+{"s": "Bubble Sort", "p": "Used-for", "o": "Data Structures"}
+{"s": "parent", "p": "Part-of", "o": "Part I"}
+{"s": "parent", "p": "Compare", "o": "children"}
+{"s": "32 bit integer", "p": "Is-a-Prerequisite-of", "o": "radix sort"}
+{"s": "radix sort", "p": "Is-a-Prerequisite-of", "o": "sorting algorithm"}
+{"s": "recursive insertnode algorithm", "p": "Is-a-Prerequisite-of", "o": "tree data structure"}
+{"s": "recursive insertnode algorithm", "p": "Used-for", "o": "inserting nodes"}
+{"s": "recursive insertnode algorithm", "p": "Is-a-Prerequisite-of", "o": "binary search tree"}
+{"s": "tree data structure", "p": "Part-of", "o": "computer science"}
+{"s": "binary search tree", "p": "Hyponym-Of", "o": "tree data structure"}
+{"s": "inserting nodes", "p": "Part-of", "o": "tree traversal"}
+{"s": "tree traversal", "p": "Part-of", "o": "algorithm"}
+{"s": "Heap order", "p": "Is-a-Prerequisite-of", "o": "Heap sort"}
+{"s": "Heap order", "p": "Is-a-Prerequisite-of", "o": "Heap data structure"}
+{"s": "Heap order", "p": "Is-a-Prerequisite-of", "o": "Priority queue"}
+{"s": "balancing algorithm", "p": "Part-of", "o": "AVL tree"}
+{"s": "double rotations", "p": "Part-of", "o": "balancing algorithm"}
+{"s": "Divide et Impera", "p": "Is-a-Prerequisite-of", "o": "Effective Governance"}
+{"s": "Divide et Impera", "p": "Used-for", "o": "Political Strategy"}
+{"s": "Divide et Impera", "p": "Used-for", "o": "Military Strategy"}
+{"s": "Divide et Impera", "p": "Used-for", "o": "Problem Solving"}
+{"s": "Effective Governance", "p": "Part-of", "o": "Successful State"}
+{"s": "Political Strategy", "p": "Hyponym-Of", "o": "Strategy"}
+{"s": "Military Strategy", "p": "Hyponym-Of", "o": "Strategy"}
+{"s": "Problem Solving", "p": "Used-for", "o": "Conflict Resolution"}
+{"s": "probability search", "p": "Hyponym-Of", "o": "searching algorithm"}
+{"s": "binary chop", "p": "Hyponym-Of", "o": "searching algorithm"}
+{"s": "Probability search", "p": "Is-a-Prerequisite-of", "o": "searching algorithm"}
+{"s": "strip", "p": "Part-of", "o": "comic book"}
+{"s": "strip", "p": "Used-for", "o": "data transmission"}
+{"s": "strip", "p": "Used-for", "o": "LED lighting"}
+{"s": "probability search", "p": "Is-a-Prerequisite-of", "o": "searching algorithm"}
+{"s": "Palindrome detection algorithm", "p": "Is-a-Prerequisite-of", "o": "String processing"}
+{"s": "Palindrome detection algorithm", "p": "Used-for", "o": "Text analysis"}
+{"s": "Palindrome detection algorithm", "p": "Used-for", "o": "Data processing"}
+{"s": "String", "p": "Part-of", "o": "Palindrome detection algorithm"}
+{"s": "String processing", "p": "Used-for", "o": "Palindrome detection algorithm"}
+{"s": "Algorithm", "p": "Hyponym-Of", "o": "Palindrome detection algorithm"}
+{"s": "Recursive approach", "p": "Used-for", "o": "Palindrome detection algorithm"}
+{"s": "Iterative approach", "p": "Used-for", "o": "Palindrome detection algorithm"}
+{"s": "palindrome", "p": "Part-of", "o": "String"}
+{"s": "palindrome", "p": "Is-a-Prerequisite-of", "o": "string"}
+{"s": "substring", "p": "Part-of", "o": "string"}
+{"s": "substring", "p": "Used-for", "o": "pattern matching"}
+{"s": "substring", "p": "Used-for", "o": "text processing"}
+{"s": "substring", "p": "Used-for", "o": "information retrieval"}
+{"s": "sub-string", "p": "Part-of", "o": "String"}
+{"s": "Min-heapify algorithm", "p": "Used-for", "o": "Maintaining heap property"}
+{"s": "Min-heapify algorithm", "p": "Compare", "o": "Child nodes"}
+{"s": "Min-heapify algorithm", "p": "Compare", "o": "Parent node"}
+{"s": "Min-heapify algorithm", "p": "Part-of", "o": "Heap data structure"}
+{"s": "Min-heap", "p": "Part-of", "o": "Heap data structure"}
+{"s": "Min-heap", "p": "Used-for", "o": "Min-heapify algorithm"}
+{"s": "Heap sort", "p": "Used-for", "o": "Sorting"}
+{"s": "Doubly linked list", "p": "Part-of", "o": "Data structure"}
+{"s": "Doubly linked list", "p": "Used-for", "o": "Implementing efficient data manipulation"}
+{"s": "Node", "p": "Part-of", "o": "Doubly linked list"}
+{"s": "Node", "p": "Conjunction", "o": "Pointer"}
+{"s": "Pointer", "p": "Used-for", "o": "Linking previous and next nodes"}
+{"s": "helper algorithms", "p": "Part-of", "o": "Remove algorithm"}
+{"s": "Left Rotation Algorithm", "p": "Is-a-Prerequisite-of", "o": "Tree Rotation"}
+{"s": "Left Rotation Algorithm", "p": "Used-for", "o": "Self-Balancing Binary Search Trees"}
+{"s": "Left Rotation Algorithm", "p": "Used-for", "o": "AVL Trees"}
+{"s": "Left Rotation Algorithm", "p": "Used-for", "o": "Red-Black Trees"}
+{"s": "Tree Rotation", "p": "Part-of", "o": "Left Rotation Algorithm"}
+{"s": "Tree Rotation", "p": "Part-of", "o": "Right Rotation Algorithm"}
+{"s": "Self-Balancing Binary Search Trees", "p": "Used-for", "o": "Efficient Data Retrieval"}
+{"s": "AVL Trees", "p": "Hyponym-Of", "o": "Self-Balancing Binary Search Trees"}
+{"s": "Red-Black Trees", "p": "Hyponym-Of", "o": "Self-Balancing Binary Search Trees"}
+{"s": "leftandrightrotation", "p": "Is-a-Prerequisite-of", "o": "restoring balance in bst"}
+{"s": "rightandleftrotation", "p": "Is-a-Prerequisite-of", "o": "restoring balance in bst"}
+{"s": "Mergesort", "p": "Is-a-Prerequisite-of", "o": "Divide and Conquer"}
+{"s": "Mergesort", "p": "Used-for", "o": "Sorting"}
+{"s": "Mergesort", "p": "Part-of", "o": "Divide and Conquer Algorithms"}
+{"s": "isprime algorithm", "p": "Is-a-Prerequisite-of", "o": "number theory"}
+{"s": "isprime algorithm", "p": "Used-for", "o": "primality testing"}
+{"s": "Greatest Common Divisor Algorithm", "p": "Used-for", "o": "Finding the GCD of two numbers"}
+{"s": "Greatest Common Divisor Algorithm", "p": "Is-a-Prerequisite-of", "o": "Number Theory"}
+{"s": "Euclidean Algorithm", "p": "Is-a-Prerequisite-of", "o": "Greatest Common Divisor Algorithm"}
+{"s": "Euclidean Algorithm", "p": "Hyponym-Of", "o": "Greatest Common Divisor Algorithm"}
+{"s": "Modulo Operation", "p": "Used-for", "o": "Euclidean Algorithm"}
+{"s": "Subtraction", "p": "Used-for", "o": "Euclidean Algorithm"}
+{"s": "Division", "p": "Used-for", "o": "Euclidean Algorithm"}
+{"s": "MaxValue Algorithm", "p": "Is-a-Prerequisite-of", "o": "Optimization Problem"}
+{"s": "MaxValue Algorithm", "p": "Used-for", "o": "Finding Maximum Value"}
+{"s": "MaxValue Algorithm", "p": "Compare", "o": "Elements in a Set"}
+{"s": "MaxValue Algorithm", "p": "Used-for", "o": "Data Analysis"}
+{"s": "Sequential search algorithm", "p": "Is-a-Prerequisite-of", "o": "Linear search"}
+{"s": "Sequential search algorithm", "p": "Used-for", "o": "Searching a sorted list"}
+{"s": "Sequential search algorithm", "p": "Used-for", "o": "Searching an unsorted list"}
+{"s": "Sequential search algorithm", "p": "Compare", "o": "Binary search"}
+{"s": "Sequential search algorithm", "p": "Compare", "o": "Jump search"}
+{"s": "Linear search", "p": "Is-a-Prerequisite-of", "o": "Sequential search algorithm"}
+{"s": "probability search algorithm", "p": "Is-a-Prerequisite-of", "o": "optimization problem"}
+{"s": "probability search algorithm", "p": "Used-for", "o": "decision making"}
+{"s": "probability search algorithm", "p": "Used-for", "o": "machine learning"}
+{"s": "probability search algorithm", "p": "Compare", "o": "deterministic algorithm"}
+{"s": "Reverse words algorithm", "p": "Is-a-Prerequisite-of", "o": "String manipulation"}
+{"s": "Reverse words algorithm", "p": "Used-for", "o": "Sentence reversal"}
+{"s": "Reverse words algorithm", "p": "Used-for", "o": "Text processing"}
+{"s": "Sentence reversal", "p": "Hyponym-Of", "o": "Text processing"}
+{"s": "Text processing", "p": "Part-of", "o": "Natural language processing"}
+{"s": "Natural language processing", "p": "Part-of", "o": "Artificial intelligence"}
+{"s": "Word Count Algorithm", "p": "Is-a-Prerequisite-of", "o": "Text Processing"}
+{"s": "Word Count Algorithm", "p": "Used-for", "o": "Document Analysis"}
+{"s": "Word Count Algorithm", "p": "Used-for", "o": "Text Summarization"}
+{"s": "Text Processing", "p": "Part-of", "o": "Natural Language Processing"}
+{"s": "Document Analysis", "p": "Part-of", "o": "Natural Language Processing"}
+{"s": "Text Summarization", "p": "Part-of", "o": "Natural Language Processing"}
+{"s": "\"ispalindrome algorithm\"", "p": "Is-a-Prerequisite-of", "o": "\"string manipulation\""}
+{"s": "\"ispalindrome algorithm\"", "p": "Used-for", "o": "\"palindrome checking\""}
+{"s": "\"string manipulation\"", "p": "Part-of", "o": "\"computer science\""}
+{"s": "\"ispalindrome algorithm\"", "p": "Used-for", "o": "\"data processing\""}
+{"s": "\"palindrome checking\"", "p": "Part-of", "o": "\"algorithm design\""}
+{"s": "\"recursive approach\"", "p": "Hyponym-Of", "o": "\"ispalindrome algorithm\""}
+{"s": "\"iterative approach\"", "p": "Hyponym-Of", "o": "\"ispalindrome algorithm\""}
+{"s": "type check", "p": "Is-a-Prerequisite-of", "o": "custom type checks"}
+{"s": "located", "p": "Conjunction", "o": "not located"}
+{"s": "factorial algorithm", "p": "Is-a-Prerequisite-of", "o": "recursive implementations"}
+{"s": "parent index", "p": "Part-of", "o": "Binary Heap"}
+{"s": "parent index", "p": "Used-for", "o": "FindParent"}
+{"s": "parent index", "p": "Compare", "o": "child index"}
+{"s": "min heap", "p": "Is-a-Prerequisite-of", "o": "parent index"}
+{"s": "max heap", "p": "Is-a-Prerequisite-of", "o": "parent index"}
+{"s": "FindParent", "p": "Used-for", "o": "parent index"}
+{"s": "parent index", "p": "Part-of", "o": "Heap data structure"}
+{"s": "parent index", "p": "Used-for", "o": "FindParent algorithm"}
+{"s": "parent node", "p": "Part-of", "o": "Binary Heap"}
+{"s": "parent node", "p": "Is-a-Prerequisite-of", "o": "min heap"}
+{"s": "parent node", "p": "Is-a-Prerequisite-of", "o": "max heap"}
+{"s": "child node", "p": "Part-of", "o": "Binary Heap"}
+{"s": "Binary heap", "p": "Is-a-Prerequisite-of", "o": "Heap sort"}
+{"s": "Binary heap", "p": "Used-for", "o": "Priority queue"}
+{"s": "Binary heap", "p": "Part-of", "o": "Heap data structure"}
+{"s": "Binary heap", "p": "Compare", "o": "Elements"}
+{"s": "Binary Heap", "p": "Conjunction", "o": "min heap"}
+{"s": "min heap", "p": "Is-a-Prerequisite-of", "o": "parent node value comparison"}
+{"s": "max heap", "p": "Compare", "o": "min heap"}
+{"s": "Binary Heap", "p": "Conjunction", "o": "max heap"}
+{"s": "Highest Priority", "p": "Is-a-Prerequisite-of", "o": "Task Completion"}
+{"s": "Highest Priority", "p": "Used-for", "o": "Resource Allocation"}
+{"s": "Highest Priority", "p": "Used-for", "o": "Project Management"}
+{"s": "Highest Priority", "p": "Compare", "o": "Lower Priority"}
+{"s": "Task Completion", "p": "Is-a-Prerequisite-of", "o": "Project Success"}
+{"s": "Resource Allocation", "p": "Part-of", "o": "Project Management"}
+{"s": "memory", "p": "Part-of", "o": "computer"}
+{"s": "big oh notation", "p": "Used-for", "o": "runtime complexity analysis"}
+{"s": "algorithm", "p": "Is-a-Prerequisite-of", "o": "big oh notation"}
+{"s": "big oh notation", "p": "Is-a-Prerequisite-of", "o": "runtime complexity analysis"}
+{"s": "big oh notation", "p": "Is-a-Prerequisite-of", "o": "algorithm runtime complexity analysis"}
+{"s": "big oh notation", "p": "Is-a-Prerequisite-of", "o": "algorithm analysis"}
+{"s": "Algorithm runtime complexity analysis", "p": "Is-a-Prerequisite-of", "o": "Algorithm design"}
+{"s": "Algorithm runtime complexity analysis", "p": "Is-a-Prerequisite-of", "o": "Algorithm optimization"}
+{"s": "Algorithm runtime complexity analysis", "p": "Used-for", "o": "Performance prediction"}
+{"s": "Algorithm runtime complexity analysis", "p": "Used-for", "o": "Algorithm selection"}
+{"s": "Big O notation", "p": "Used-for", "o": "Algorithm runtime complexity analysis"}
+{"s": "Time complexity", "p": "Part-of", "o": "Algorithm runtime complexity analysis"}
+{"s": "Space complexity", "p": "Part-of", "o": "Algorithm runtime complexity analysis"}
+{"s": "Best-case", "p": "Compare", "o": "Worst-case"}
+{"s": "Best-case", "p": "Compare", "o": "Average-case"}
+{"s": "Worst-case", "p": "Compare", "o": "Average-case"}
+{"s": "Asymptotic analysis", "p": "Used-for", "o": "Algorithm runtime complexity analysis"}
+{"s": "Recurrence relations", "p": "Used-for", "o": "Algorithm runtime complexity analysis"}
+{"s": "Master theorem", "p": "Used-for", "o": "Algorithm runtime complexity analysis"}
+{"s": "Amortized analysis", "p": "Used-for", "o": "Algorithm runtime complexity analysis"}
+{"s": "left rotation", "p": "Conjunction", "o": "right rotation"}
+{"s": "preorder traversal", "p": "Used-for", "o": "traversing trees"}
+{"s": "preorder traversal", "p": "Used-for", "o": "binary trees"}
+{"s": "Breadth-first traversal", "p": "Is-a-Prerequisite-of", "o": "Graph traversal"}
+{"s": "Breadth-first traversal", "p": "Used-for", "o": "Searching"}
+{"s": "Breadth-first traversal", "p": "Used-for", "o": "Graph algorithms"}
+{"s": "Breadth-first traversal", "p": "Used-for", "o": "Shortest path finding"}
+{"s": "Queue", "p": "Used-for", "o": "Breadth-first traversal"}
+{"s": "yield", "p": "Compare", "o": "returns"}
+{"s": "yield", "p": "Used-for", "o": "Post"}
+{"s": "yield", "p": "Is-a-Prerequisite-of", "o": "Post"}
+{"s": "yield", "p": "Is-a-Prerequisite-of", "o": "return"}
+{"s": "case", "p": "Conjunction", "o": "yield"}
+{"s": "sorted list", "p": "Part-of", "o": "post"}
+{"s": "true", "p": "Conjunction", "o": "false"}
+{"s": "case", "p": "Conjunction", "o": "true"}
+{"s": "heap array used", "p": "Used-for", "o": "searching"}
+{"s": "heap", "p": "Part-of", "o": "heap array used"}
+{"s": "garbage values", "p": "Part-of", "o": "heap array used"}
+{"s": "item at index 0 within the heap array", "p": "Part-of", "o": "heap array used"}
+{"s": "heap array used", "p": "Used-for", "o": "storing heap items"}
+{"s": "heap array used", "p": "Used-for", "o": "minimizing the impact of dynamic size"}
+{"s": "heap array used", "p": "Used-for", "o": "searching a heap"}
+{"s": "heap array used", "p": "Part-of", "o": "backing heap array"}
+{"s": "heap array used", "p": "Evaluate-for", "o": "run time behaviour of a program"}
+{"s": "garbage values", "p": "Part-of", "o": "heap array data"}
+{"s": "garbage values", "p": "Part-of", "o": "backing heap array data"}
+{"s": "dynamic size", "p": "Used-for", "o": "minimising impact"}
+{"s": "index 0", "p": "Part-of", "o": "heap array"}
+{"s": "heap array", "p": "Compare", "o": "backing heap array"}
+{"s": "heap array", "p": "Part-of", "o": "backing heap array"}
+{"s": "heap array", "p": "Used-for", "o": "storing heap items"}
+{"s": "heap array", "p": "Part-of", "o": "heap"}
+{"s": "heap array", "p": "Evaluate-for", "o": "minimising impact of dynamic resizing"}
+{"s": "heap array", "p": "Evaluate-for", "o": "minimising memory impact"}
+{"s": "size for your heap array", "p": "Used-for", "o": "minimising the impact of dynamic"}
+{"s": "size", "p": "Used-for", "o": "minimising impact of dynamic"}
+{"s": "unit test", "p": "Is-a-Prerequisite-of", "o": "software development"}
+{"s": "unit test", "p": "Used-for", "o": "code coverage"}
+{"s": "unit test", "p": "Compare", "o": "integration test"}
+{"s": "unit test", "p": "Part-of", "o": "test suite"}
+{"s": "code coverage", "p": "Evaluate-for", "o": "unit test"}
+{"s": "unit test", "p": "Evaluate-for", "o": "boundary conditions"}
+{"s": "unit test", "p": "Used-for", "o": "TDD"}
+{"s": "unit test", "p": "Is-a-Prerequisite-of", "o": "software production code"}
+{"s": "unit test", "p": "Conjunction", "o": "integration test"}
+{"s": "code coverage", "p": "Part-of", "o": "unit testing"}
+{"s": "test suite", "p": "Conjunction", "o": "unit tests"}
+{"s": "pivot", "p": "Part-of", "o": "pivot list"}
+{"s": "Figure a.1", "p": "Part-of", "o": "Chapter 1"}
+{"s": "Figure 3.5", "p": "Part-of", "o": "Document"}
+{"s": "Figure 4.8", "p": "Is-a-Prerequisite-of", "o": "Understanding LSTM Networks"}
+{"s": "Recurrent Neural Network", "p": "Used-for", "o": "Sequence Modeling"}
+{"s": "Sequence Modeling", "p": "Used-for", "o": "Question Answering"}
+{"s": "ROUGE", "p": "Evaluate-for", "o": "Question Answering"}
+{"s": "heap data structure", "p": "Used-for", "o": "priority queue implementation"}
+{"s": "deque", "p": "Compare", "o": "normal queue"}
+{"s": "priority queue", "p": "Compare", "o": "deque"}
+{"s": "deque", "p": "Is-a-Prerequisite-of", "o": "algorithm"}
+{"s": "order", "p": "Is-a-Prerequisite-of", "o": "deque"}
+{"s": "property", "p": "Conjunction", "o": "deque"}
+{"s": "required data structure", "p": "Part-of", "o": "resizing algorithms"}
+{"s": "add method", "p": "Is-a-Prerequisite-of", "o": "data structure"}
+{"s": "Breadth-first traversal", "p": "Compare", "o": "Depth-first traversal"}
+{"s": "Tree Traversal", "p": "Is-a-Prerequisite-of", "o": "Graph Algorithms"}
+{"s": "Binary Tree", "p": "Used-for", "o": "Tree Traversal"}
+{"s": "Graph", "p": "Used-for", "o": "Tree Traversal"}
+{"s": "Preorder Traversal", "p": "Used-for", "o": "Tree Serialization"}
+{"s": "Postorder Traversal", "p": "Used-for", "o": "Tree Serialization"}
+{"s": "Inorder Traversal", "p": "Used-for", "o": "Tree Serialization"}
+{"s": "Tree Traversal", "p": "Used-for", "o": "Data Retrieval"}
+{"s": "Tree Traversal", "p": "Used-for", "o": "Tree Copying"}
+{"s": "LeftAndRightRotation", "p": "Part-of", "o": "balancing algorithms"}
+{"s": "RightAndLeftRotation", "p": "Part-of", "o": "balancing algorithms"}
+{"s": "balancing algorithms", "p": "Used-for", "o": "AVL tree"}
+{"s": "array representation of a tree data structure", "p": "Part-of", "o": "tree data structure"}
+{"s": "optimisation compiler", "p": "Used-for", "o": "code optimization"}
+{"s": "commercial compilers", "p": "Hyponym-Of", "o": "optimisation compiler"}
+{"s": "optimisation compiler", "p": "Evaluate-for", "o": "code efficiency"}
+{"s": "code optimization", "p": "Part-of", "o": "compilation process"}
+{"s": "zero pre list mean", "p": "Is-a-Prerequisite-of", "o": "list processing"}
+{"s": "zero pre list mean", "p": "Used-for", "o": "data analysis"}
+{"s": "mean", "p": "Part-of", "o": "zero pre list mean"}
+{"s": "pre-processing", "p": "Part-of", "o": "zero pre list mean"}
+{"s": "zero pre list mean", "p": "Part-of", "o": "mean calculation"}
+{"s": "mean", "p": "Hyponym-Of", "o": "average"}
+{"s": "mean calculation", "p": "Used-for", "o": "data analysis"}
+{"s": "zero", "p": "Conjunction", "o": "pre"}
+{"s": "return false", "p": "Compare", "o": "return true"}
+{"s": "Singly linked list", "p": "Is-a-Prerequisite-of", "o": "Data structures"}
+{"s": "Singly linked list", "p": "Used-for", "o": "Data manipulation"}
+{"s": "Node", "p": "Part-of", "o": "Singly linked list"}
+{"s": "Node", "p": "Conjunction", "o": "Next node"}
+{"s": "Next node", "p": "Part-of", "o": "Node"}
+{"s": "Recursive data structure", "p": "Is-a-Prerequisite-of", "o": "Functional programming"}
+{"s": "Recursive data structure", "p": "Is-a-Prerequisite-of", "o": "Algorithm design"}
+{"s": "Recursive data structure", "p": "Used-for", "o": "Data representation"}
+{"s": "Recursive data structure", "p": "Used-for", "o": "Problem solving"}
+{"s": "Linked list", "p": "Part-of", "o": "Recursive data structure"}
+{"s": "Tree", "p": "Part-of", "o": "Recursive data structure"}
+{"s": "Graph", "p": "Part-of", "o": "Recursive data structure"}
+{"s": "self right rotation", "p": "Part-of", "o": "Tree Rotations"}
+{"s": "self right rotation", "p": "Used-for", "o": "restoring balance"}
+{"s": "Tree rotation", "p": "Is-a-Prerequisite-of", "o": "Self-balancing binary search tree"}
+{"s": "Tree rotation", "p": "Used-for", "o": "Maintaining balance"}
+{"s": "Tree rotation", "p": "Used-for", "o": "AVL trees"}
+{"s": "Tree rotation", "p": "Used-for", "o": "Red-black trees"}
+{"s": "Self-balancing binary search tree", "p": "Part-of", "o": "Data structure"}
+{"s": "AVL trees", "p": "Hyponym-Of", "o": "Self-balancing binary search tree"}
+{"s": "Red-black trees", "p": "Hyponym-Of", "o": "Self-balancing binary search tree"}
+{"s": "Maintaining balance", "p": "Is-a-Prerequisite-of", "o": "Efficient search"}
+{"s": "case", "p": "Conjunction", "o": "false"}
+{"s": "Shell Sort", "p": "Is-a-Prerequisite-of", "o": "Sorting Algorithm"}
+{"s": "Shell Sort", "p": "Used-for", "o": "Sorting"}
+{"s": "Shell Sort", "p": "Compare", "o": "elements"}
+{"s": "Shell Sort", "p": "Compare", "o": "gaps"}
+{"s": "pre-order traversal", "p": "Compare", "o": "in-order traversal"}
+{"s": "pre-order traversal", "p": "Compare", "o": "post-order traversal"}
+{"s": "in-order traversal", "p": "Compare", "o": "post-order traversal"}
+{"s": "enqueue", "p": "Is-a-Prerequisite-of", "o": "queue"}
+{"s": "enqueue", "p": "Used-for", "o": "queue"}
+{"s": "algorithm described", "p": "Part-of", "o": "Algorithms"}
+{"s": "algorithm described", "p": "Compare", "o": "efficient searching algorithms"}
+{"s": "algorithm described", "p": "Used-for", "o": "solving the problem"}
+{"s": "algorithm described", "p": "Part-of", "o": "Doubly linked lists"}
+{"s": "algorithm described", "p": "Part-of", "o": "Contains algorithm"}
+{"s": "algorithm described", "p": "Part-of", "o": "System.Linq.Enumerable"}
+{"s": "algorithm described", "p": "Part-of", "o": "isPrime algorithm"}
+{"s": "algorithm described", "p": "Part-of", "o": "IsPalindrome algorithm"}
+{"s": "algorithm", "p": "Part-of", "o": "algorithm design"}
+{"s": "Algorithm", "p": "Used-for", "o": "represent type"}
+{"s": "base 2 representation", "p": "Hyponym-Of", "o": "representation"}
+{"s": "problem", "p": "Is-a-Prerequisite-of", "o": "algorithm"}
+{"s": "smaller problems", "p": "Conjunction", "o": "problem"}
+{"s": "string algorithm", "p": "Is-a-Prerequisite-of", "o": "structured approach"}
+{"s": "CheckBalance", "p": "Used-for", "o": "root node"}
+{"s": "palindrome", "p": "Is-a-Prerequisite-of", "o": "string processing"}
+{"s": "palindrome", "p": "Is-a-Prerequisite-of", "o": "algorithm"}
+{"s": "string processing", "p": "Used-for", "o": "palindrome detection"}
+{"s": "palindrome detection", "p": "Used-for", "o": "text analysis"}
+{"s": "palindrome detection", "p": "Used-for", "o": "natural language processing"}
+{"s": "largest value", "p": "Is-a-Prerequisite-of", "o": "finding maximum"}
+{"s": "largest value", "p": "Compare", "o": "other values"}
+{"s": "finding maximum", "p": "Used-for", "o": "algorithm"}
+{"s": "performance", "p": "Compare", "o": "efficiency"}
+{"s": "ordered list", "p": "Conjunction", "o": "ordered list"}
+{"s": "table based approach", "p": "Compare", "o": "recursive implementation"}
+{"s": "linked lists", "p": "Part-of", "o": "DSA"}
+{"s": "unordered sets", "p": "Part-of", "o": "libraries"}
+{"s": "maxvalue", "p": "Is-a-Prerequisite-of", "o": "optimization"}
+{"s": "maxvalue", "p": "Used-for", "o": "finding optimal solutions"}
+{"s": "maxvalue", "p": "Used-for", "o": "model selection"}
+{"s": "maxvalue", "p": "Compare", "o": "different values"}
+{"s": "Forward traversal", "p": "Is-a-Prerequisite-of", "o": "Reverse traversal"}
+{"s": "Forward traversal", "p": "Used-for", "o": "Graph search"}
+{"s": "Reverse traversal", "p": "Used-for", "o": "Graph search"}
+{"s": "Min-heapify", "p": "Is-a-Prerequisite-of", "o": "Heap-sort"}
+{"s": "Min-heapify", "p": "Used-for", "o": "Heap-based priority queue"}
+{"s": "Min-heapify", "p": "Used-for", "o": "Heap data structure"}
+{"s": "Heap-sort", "p": "Used-for", "o": "Sorting"}
+{"s": "Heap data structure", "p": "Part-of", "o": "Min-heap"}
+{"s": "Min-heap", "p": "Hyponym-Of", "o": "Heap"}
+{"s": "Doubly linked list", "p": "Is-a-Prerequisite-of", "o": "efficient searching"}
+{"s": "Dequeue", "p": "Is-a-Prerequisite-of", "o": "efficient searching"}
+{"s": "Hash table", "p": "Used-for", "o": "efficient searching"}
+{"s": "Double-ended queue", "p": "Is-a-Prerequisite-of", "o": "Efficient data structure"}
+{"s": "Double-ended queue", "p": "Used-for", "o": "Implementing stacks and queues"}
+{"s": "Double-ended queue", "p": "Used-for", "o": "Deque"}
+{"s": "Double-ended queue", "p": "Used-for", "o": "Breadth-first search"}
+{"s": "Double-ended queue", "p": "Used-for", "o": "Depth-first search"}
+{"s": "Double-ended queue", "p": "Compare", "o": "Stack"}
+{"s": "Double-ended queue", "p": "Compare", "o": "Queue"}
+{"s": "Double-ended queue", "p": "Part-of", "o": "Data structures"}
+{"s": "Recursive algorithms", "p": "Is-a-Prerequisite-of", "o": "Computer science"}
+{"s": "Recursive algorithms", "p": "Used-for", "o": "Problem solving"}
+{"s": "Recursive algorithms", "p": "Used-for", "o": "Algorithm design"}
+{"s": "Recursive algorithms", "p": "Compare", "o": "Iterative algorithms"}
+{"s": "Recursive algorithms", "p": "Part-of", "o": "Advanced algorithms"}
+{"s": "Base case", "p": "Part-of", "o": "Recursive algorithms"}
+{"s": "Recursive step", "p": "Part-of", "o": "Recursive algorithms"}
+{"s": "Stack overflow", "p": "Evaluate-for", "o": "Recursive algorithms"}
+{"s": "Factorial calculation", "p": "Used-for", "o": "Recursive algorithms"}
+{"s": "Fibonacci sequence", "p": "Used-for", "o": "Recursive algorithms"}
+{"s": "Tower of Hanoi", "p": "Used-for", "o": "Recursive algorithms"}
+{"s": "Merge sort", "p": "Used-for", "o": "Recursive algorithms"}
+{"s": "Quick sort", "p": "Used-for", "o": "Recursive algorithms"}
+{"s": "Tree traversal", "p": "Used-for", "o": "Recursive algorithms"}
+{"s": "Graph traversal", "p": "Used-for", "o": "Recursive algorithms"}
+{"s": "Symbols", "p": "Is-a-Prerequisite-of", "o": "Communication"}
+{"s": "Symbols", "p": "Used-for", "o": "Representation"}
+{"s": "Symbols", "p": "Used-for", "o": "Mathematical_expression"}
+{"s": "Symbols", "p": "Used-for", "o": "Programming"}
+{"s": "Symbols", "p": "Used-for", "o": "Logic"}
+{"s": "Communication", "p": "Used-for", "o": "conveying_information"}
+{"s": "Mathematical_expression", "p": "Used-for", "o": "calculation"}
+{"s": "Programming", "p": "Used-for", "o": "computer_instruction"}
+{"s": "Logic", "p": "Used-for", "o": "reasoning"}
+{"s": "Representation", "p": "Part-of", "o": "Communication"}
+{"s": "Representation", "p": "Part-of", "o": "Mathematical_expression"}
+{"s": "Representation", "p": "Part-of", "o": "Programming"}
+{"s": "Representation", "p": "Part-of", "o": "Logic"}
+{"s": "Data structures", "p": "Is-a-Prerequisite-of", "o": "algorithm efficiency"}
+{"s": "set", "p": "Part-of", "o": "set member ordered"}
+{"s": "list", "p": "Compare", "o": "unsorted"}
+{"s": "sorted", "p": "Compare", "o": "unsorted"}
+{"s": "quick sort", "p": "Compare", "o": "other sorting methods"}
+{"s": "Appendix C", "p": "Part-of", "o": "Document"}
+{"s": "Balancing", "p": "Is-a-Prerequisite-of", "o": "Skill"}
+{"s": "Balancing", "p": "Used-for", "o": "Control"}
+{"s": "Balancing", "p": "Used-for", "o": "Stability"}
+{"s": "Balancing", "p": "Used-for", "o": "Posture"}
+{"s": "Balancing", "p": "Used-for", "o": "Locomotion"}

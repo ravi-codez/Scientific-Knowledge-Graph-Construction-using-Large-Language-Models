@@ -1,0 +1,592 @@
+1|min heap
+2|current
+3|garbage collection algorithm
+4|binary chop
+5|algorithm
+6|understand algorithm
+7|algorithms
+8|run time complexity analysis
+9|pivot
+10|set
+11|linked list
+12|root
+13|algorithm design
+14|insertion
+15|logarithmic algorithm
+16|findparent
+17|return statement
+18|bst
+19|binary search
+20|right rotation algorithm
+21|findmax algorithm
+22|communication
+23|unit testing
+24|data retrieval
+25|sorted value
+26|binary search tree
+27|hash table
+28|sorting algorithms
+29|searching algorithm
+30|postorder
+31|strip
+32|post list sorted
+33|compilation process
+34|data structure
+35|function
+36|add algorithm
+37|quick sort
+38|memory management
+39|queue
+40|list
+41|iterative algorithm
+42|radix sort
+43|recursive algorithm
+44|parent index
+45|singly linked list
+46|code efficiency
+47|nodetoremove
+48|searching a heap
+49|chapter
+50|sorting algorithm
+51|height
+52|word
+53|balancing algorithm
+54|doubly linked lists
+55|left
+56|tree traversal
+57|search tree
+58|figure 11.1
+59|zero pre list mean
+60|communication between developers
+61|searching
+62|pivot list
+63|index
+64|avl tree
+65|efficiency
+66|defining classes of tests
+67|nodetoremove.right
+68|preserving tree balance
+69|return type
+70|bst tree
+71|insertnode
+72|tree
+73|tree rotation
+74|min-heap
+75|deque
+76|leftandrightrotation
+77|garbage values
+78|inorder traversal
+79|resizing algorithm
+80|priority queue
+81|preorder visit
+82|correctness
+83|dynamic size
+84|binary tree
+85|exponential algorithm
+86|algorithm analysis
+87|algorithm implementation
+88|contains algorithm
+89|node
+90|preorder
+91|unit test
+92|yield
+93|palindrome detection algorithm
+94|list search
+95|ascending order
+96|postorder algorithm
+97|robustness
+98|quadratic algorithm
+99|postorder traversal
+100|child index
+101|preorder algorithm
+102|computer science
+103|binary search tree traversal
+104|mean
+105|variables
+106|integer
+107|heap array used
+108|intersection algorithm
+109|postorder visit
+110|big oh notation
+111|insert algorithm
+112|inheritance
+113|insertion sort
+114|helper algorithms
+115|not located
+116|book
+117|part i
+118|string
+119|heap
+120|value
+121|figure 7.2
+122|iterative algorithms
+123|inorder algorithm
+124|palindrome algorithm
+125|pre-order traversal
+126|findnode algorithm
+127|doubly linked list
+128|right
+129|radix
+130|sorting
+131|findmin algorithm
+132|cubic algorithm
+133|figure 11.2
+134|post
+135|right sorting
+136|deletion algorithm
+137|return
+138|boundary conditions
+139|appendix c
+140|implicitly described queue
+141|introduction
+142|breadthfirst algorithm
+143|recursive data structures
+144|remove algorithm
+145|software development
+146|algorithm described
+147|insertion algorithm
+148|program
+149|visualising problem
+150|maxheapify algorithm
+151|figure a.1
+152|storing heap items
+153|garbage collection
+154|findparent algorithm
+155|loops
+156|representing ordered data
+157|logarithmic searching algorithm
+158|list index
+159|largestvalue
+160|greatestcommondenominator
+161|sub-string search
+162|unordered set
+163|unsorted
+164|array
+165|first step
+166|unsorted list
+167|larger diagram
+168|data structures
+169|algorithm trace
+170|left rotation algorithm
+171|heap order
+172|item
+173|current right height
+174|increment
+175|normal queue
+176|isprime algorithm
+177|∅
+178|tree traversals
+179|basic insertions
+180|restoring balance
+181|return false
+182|second step
+183|priority queue implementation
+184|problem solving
+185|heap array
+186|implementation
+187|logarithmic time complexity
+188|figure 3.5
+189|n
+190|figure 11.4
+191|sorted list
+192|findnode
+193|ispalindrome algorithm
+194|selecting correct sorting algorithm
+195|test suite
+196|item search
+197|minheapify algorithm
+198|highest priority
+199|32 bit integer
+200|type check
+201|prototype algorithm
+202|nodetoremove.left
+203|singly linked lists
+204|minimising the impact of dynamic
+205|unit tests
+206|number
+207|traversal
+208|checkbalance
+209|comparer
+210|data analysis
+211|large data structures
+212|factorial algorithm
+213|diagram
+214|< operator
+215|writing tests
+216|representing tree data structure
+217|parent.left
+218|other search algorithms
+219|string algorithms
+220|demonstration
+221|stack size
+222|mergesort algorithm
+223|digit
+224|recursive implementations
+225|parent
+226|list processing
+227|array data structure
+228|rightandleftrotation
+229|garbage collection algorithms
+230|heap data structure
+231|ordered set
+232|binary heap
+233|figure 4.8
+234|figure 11.5
+235|queues
+236|appendix e
+237|order
+238|growth
+239|inorder visit
+240|insertnode algorithm
+241|balancing
+242|remove
+243|worst-case bst scenario
+244|head and tail
+245|undesired uniques set
+246|indexofkey
+247|top-of-stack index
+248|list increment
+249|c# implementation
+250|binary search trees
+251|big o notation
+252|represent a tree as
+253|-1
+254|list manipulation
+255|data structures and algorithms
+256|string indexing
+257|factorial
+258|memory
+259|right rotation
+260|problem
+261|list[index]
+262|representing data types
+263|rotation
+264|part ii
+265|dequeue
+266|priority queues
+267|descending order
+268|figure 7.1
+269|self right rotation
+270|selection sort
+271|oh notation extensively
+272|pseudocode
+273|generic sorting algorithm
+274|rotation algorithm
+275|add
+276|avoiding worst case linear complexity runtimes
+277|double rotations
+278|recursive algorithms
+279|removal of a value
+280|preorder traversal
+281|effectiveness
+282|backing heap array
+283|testing
+284|post-condition
+285|findmax
+286|custom comparer
+287|software production code
+288|ordered
+289|tdd
+290|heap insertion
+291|findindex
+292|getqueueindex
+293|post-order traversal
+294|size for your heap array
+295|true
+296|comparing algorithm efficiency
+297|stack
+298|factorial calculation
+299|search algorithm
+300|pre-condition
+301|any
+302|imperative programming
+303|balance factor
+304|head
+305|recursive data structure
+306|code coverage
+307|breadth first visit
+308|left subtree traversal
+309|match
+310|in-order traversal
+311|runtime efficiency
+312|libraries
+313|average
+314|left height
+315|located
+316|traverse algorithm
+317|minheapify
+318|add method
+319|recursive insertnode algorithm
+320|shell sort
+321|trace table
+322|random insertion
+323|type t
+324|max-heap
+325|string operations
+326|positive integers
+327|unsorted lists
+328|efficient search
+329|underlying data structure
+330|tree rotations
+331|represent string
+332|resizing algorithms
+333|fibonacci algorithm
+334|mean calculation
+335|list pivot list
+336|1
+337|unordered
+338|min-heapify algorithm
+339|tree traversal algorithm
+340|hashing algorithm
+341|item at index 0 within the heap array
+342|computer
+343|enqueuefront
+344|deletion
+345|verifying algorithm correctness
+346|palindrome
+347|balancing algorithms
+348|custom type check
+349|make problem lot easier
+350|data type
+351|node discovery
+352|post-conditions
+353|merging
+354|restoring balance in bst
+355|bst algorithms
+356|recursive call chain
+357|time complexity
+358|array index
+359|pointer
+360|data representation
+361|mergesort
+362|shellsort
+363|heap value
+364|numberbase
+365|parent node
+366|required data structure encapsulates
+367|list.count
+368|step
+369|max heap
+370|set member ordered
+371|performance
+372|palindrome check
+373|logarithmic growth
+374|test cases
+375|visualise problem
+376|data storage
+377|subtree
+378|child
+379|reversetraversal
+380|reverse list traversal
+381|function call
+382|passed custom type check
+383|tree data structure
+384|required data structure
+385|insertionsort
+386|other sorting methods
+387|figure a.2
+388|inorder
+389|heap insertion algorithm
+390|sorted lists
+391|algorithm runtime complexity analysis
+392|space complexity
+393|appendix d
+394|current.right
+395|optimisation compiler
+396|balanced binary search tree data structure
+397|breadthfirst
+398|run time efficiency
+399|ordered list
+400|list sorted
+401|reversetraversal algorithm
+402|substring
+403|integer conversion
+404|tail
+405|string matching
+406|space time complexity
+407|return value
+408|for loop
+409|finding parent node
+410|parent node value comparison
+411|contains
+412|string algorithm
+413|breadth-first traversal
+414|head node
+415|runtime complexity analysis
+416|integration test
+417|repeatedwordcount algorithm
+418|heap deletion
+419|rightrotation
+420|return true
+421|worst case scenario
+422|union algorithm
+423|findmin
+424|binary
+425|implementing
+426|returning item at index 0
+427|case
+428|data structure and algorithm
+429|current.left
+430|logarithmic time
+431|non-trivial operations
+432|returns
+433|greatestcommondenominator algorithm
+434|set member
+435|cost
+436|left rotation
+437|breadth first traversal
+438|leftrotation algorithm
+439|commercial compilers
+440|communication among computer scientists
+441|table based approach
+442|conditional statement
+443|structured approach
+444|zero
+445|other sorting algorithms
+446|string reversal
+447|sequentialsearch
+448|root node
+449|divide et impera
+450|probability search
+451|search efficiency
+452|merge sort
+453|wordcount algorithm
+454|reverse traversal
+455|code optimization
+456|verify algorithm correctness
+457|figure
+458|demonstrating sorting
+459|avl
+460|algorithm validation
+461|sequentialsearch algorithm
+462|custom type checks
+463|algorithm verification
+464|minimising memory impact
+465|tree balance
+466|unordered sets
+467|testing after implementing
+468|other notations
+469|leaf node
+470|algorithm visualization
+471|match location
+472|count
+473|call chain
+474|enqueue
+475|nodetoremove.value
+476|false
+477|design algorithm
+478|lowest priority
+479|heap implementation
+480|rightrotation algorithm
+481|children
+482|data structure and algorithms
+483|child node
+484|section
+485|removal of a node
+486|updating current height
+487|list increment list
+488|minimizing the impact of dynamic size
+489|algorithmname
+490|mathematical operation
+491|recursive calls
+492|linked lists
+493|maxvalue algorithm
+494|0
+495|recursive implementation
+496|property
+497|leftrotation
+498|recursive
+499|bubble sort
+500|represent tree
+501|merging the sorted lists back together
+502|ispalindrome
+503|vast majority case satisfied
+504|index 0
+505|book outline
+506|minimising impact of dynamic
+507|pre
+508|forward and reverse traversal
+509|implicitly sorted
+510|palindrome detection
+511|removal of a leaf node
+512|solving the problem
+513|asymptotic run time
+514|represent type
+515|algorithm description
+516|linear complexity
+517|search
+518|probabilitysearch
+519|parameters
+520|double ended queue
+521|array representation of a tree data structure
+522|worst-case-scenario
+523|desired uniques set
+524|repeatedwordcount
+525|reversewords algorithm
+526|sub-string
+527|efficient searching algorithms
+528|data structures and algorithms project
+529|searching algorithms
+530|traversal algorithm
+531|while loop
+532|returning values
+533|minimising impact of dynamic resizing
+534|runtime
+535|smaller problems
+536|determining order of items
+537|algorithm efficiency evaluation
+538|representation
+539|efficient searching
+540|insert
+541|algorithm efficiency
+542|reversewords
+543|tracing
+544|subtree condition
+545|mathematical operation implementation
+546|punctuation
+547|heap array data
+548|heap search
+549|avoiding worst-case linear complexity
+550|storing data
+551|leaf
+552|ordered sequence
+553|ease of use
+554|solve problem
+555|abstract data type
+556|minimised test cases
+557|subtrees
+558|algorithm runtime
+559|run time behaviour of a program
+560|tree’s
+561|system.linq.enumerable
+562|dsa
+563|recursive-call-chain
+564|prime number determination
+565|open source project
+566|recursion
+567|probabilitysearch algorithm
+568|balancing binary search tree
+569|word counting
+570|search algorithms
+571|contiguous memory
+572|minimising impact
+573|symbols
+574|straightforward
+575|base 2 representation
+576|runtime complexity
+577|deleting
+578|size
+579|algorithm signature
+580|backing heap array data
+581|maxvalue
+582|minheap
+583|binary conversion
+584|test class definition
+585|pre-conditions
+586|user experience
+587|pre-processing
+588|non-recursive algorithm
+589|creating a safety blanket
+590|implement algorithm
+591|minimised test driven development
+592|string manipulation
